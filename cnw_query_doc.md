@@ -2,19 +2,27 @@
 
 ## Manual Book
 
-
-![LOGO](https://www.dropbox.com/s/4s6th4e0n2z7zzd/Web%20capture_18-4-2021_6354_192.168.9.235.jpeg?dl=1)
 > Author : Andy Utomo
+
 > Company : Indoguna Utama
+
 > Project Name : CNW Project
+
 > Date : 2021-04-18
 
 ---
-[TOC]
 
+# Deskripsi
+CNW Query tools yang digunakan untuk mengeluarkan report dari SQL Query SAP Business One, berfungsi mirip seperti "*QUERY Manager SAP Business One*"
 
+Terdiri dari 2 modul utama, Query Setup dan Query Manager. 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjczMTMyMDUsMTQ1NTEyNDY2NywtMT
-gyMDg3NjUxMl19
--->
+    Query Setup digunakan oleh admin untuk membuat query SAP Business One dan menyiapkan parameter parameter yang diperlukan
+    
+    Query Manager digunakan untuk menjalankan query yang disiapkan oleh admin
+    
+
+    
+    
+
+ 
