@@ -1,4 +1,5 @@
 # CNW QUERY
+![Load Query](https://www.dropbox.com/s/wsyz1u5t83n4qaw/cnw_query_logo.jpeg?dl=1)
 
 ## Manual Book
 
@@ -77,10 +78,21 @@ FROM OCRD
 
 
 > atau Menjalankan procedure
-```sql
-Exec IGU_ACT_LISTCOA '{{company}}'
+```
+EXECUTE IGU_ACT_LISTCOA '{{company}}'
 ```
 
+
+
+
+> atau Menjalankan T-SQL 
+```sql
+declare @table table (  docnum int ,
+                        docdate varchar(10))
+insert into @table
+SELECT TOP 20 DocNum , Docdate from OINV 
+select  * from @table
+```
 
 
 > Dengan Parameter range tanggal
@@ -126,10 +138,15 @@ and A.CardCode + A.CardName like '%{{param1}}%'
 ### Field
 
 ***Query Name*** : Nama Query yang sudah dibuat oleh admin
+
 ***Company*** : Nama Company untuk menjalankan query, bisa lebih dari 1 jika usernya di *Allow* otoritasnya.
+
 ***Param Datefrom, Param Dateto*** : Parameter tanggal
+
 ***Param1, Param2, Param3, Param4*** : Parameter String
+
 ***Result To*** : Format Output yang dibutuhkan
+
 > Pilihan Format yang tersedia 
 * Txt : Format Plain Text 
 * Markdown : Format Markdown Text File
