@@ -116,8 +116,27 @@ and A.CardCode + A.CardName like '%{{param1}}%'
 
 
 
+# QUERY MANAGER
+
+***Menu >> Load Query***
+
+![Load Query](https://www.dropbox.com/s/xop5lekem9u1bzt/query_manager.jpeg?dl=1)
 
 
+### Field
+
+***Query Name*** : Nama Query yang sudah dibuat oleh admin
+***Company*** : Nama Company untuk menjalankan query, bisa lebih dari 1 jika usernya di *Allow* otoritasnya.
+***Param Datefrom, Param Dateto*** : Parameter tanggal
+***Param1, Param2, Param3, Param4*** : Parameter String
+***Result To*** : Format Output yang dibutuhkan
+> Pilihan Format yang tersedia 
+* Txt : Format Plain Text 
+* Markdown : Format Markdown Text File
+* CSV : Format CSV (, separator)
+* HTML : Format Plain HTML 
+* Excel : Format Excel (.xlsx)
+* PDF : Format PDF
 
 
 
