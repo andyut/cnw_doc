@@ -36,22 +36,26 @@ Terdiri dari 2 modul utama, Query Setup dan Query Manager.
 ***Query Name*** : Nama Query 
 > Contoh : "SAP : Business Partner List"
 
-***Company*** : List Company yang akan dibuat Query nya
-> Contoh : "My Company"
 
 ***Company*** : List Company yang akan dibuat Query nya
 > Contoh : "My Company"
+
 
 ***Param Datefrom & Param Dateto*** : (Optional) Digunakan untuk parameter tanggal, bisa dipakai 2 2nya atau salah satu.
 > Di SQL Query menggunakan format YYYYMMDD, *convert(varchar,docdate,112)*
 
+
 ***Param1, Param2, Param3, Param4*** : (Optional) Digunakan untuk parameter string
+
 
 ***Memo*** : (Optional) Digunakan untuk Menjelaskan pemakaian Query, parameter yang digunakan dan sebagainya.
 
+
 ***QueryResult*** : OUtput hasil dari menjalankan query. dalam bentuk text string
 
+
 ***Query*** : Inputan Query 
+
 **Parameter yang bisa digunakan ada 6 parameter dan 1 builtin parameter **
 * Datefrom : {{datefrom}}
 * dateTo : {{dateto}}
@@ -69,10 +73,15 @@ SELECT top 40 '{{company}}' Company,
         CardName
 FROM OCRD
 ```
+
+
+
 > atau Menjalankan procedure
 ```sql
 Exec IGU_ACT_LISTCOA '{{company}}'
 ```
+
+
 
 > Dengan Parameter range tanggal
 ```sql
@@ -86,6 +95,8 @@ where Canceled = 'N'
 and convert(varchar,A.DocDate,112) between '{{datefrom}}' and '{{dateto}}'
 ```
 
+
+
 > Dengan Parameter range tanggal dan string
 ```sql
 SELECT top 40 '{{company}}' Company,
@@ -98,6 +109,7 @@ where Canceled = 'N'
 and convert(varchar,A.DocDate,112) between '{{datefrom}}' and '{{dateto}}'
 and A.CardCode + A.CardName like '%{{param1}}%'
 ```
+
 
 >**Catatan** : Untuk tanggal menggunakan format YYYYMMDD, dan dalam query harus ditambahkan ***'***
 
