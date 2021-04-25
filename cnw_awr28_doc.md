@@ -2,10 +2,21 @@
 
     Laporan Keuangan, audit, dan lain lain
     
-    
+---
+
 ## Laba Rugi
 ### Laba Rugi Per Item
+    Laba rugi per Item  summary per customer, berdasarkan range tanggal yang diinput
+
+**Output**
+| **Item Code** | **Item Name** | **Group Product** | **Sub Group Product** | **Uom** | **Quantity** | **Amount**|
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+
+    
+    
+    
 ### Laba Rugi Per Customer
+### Cash Flow
   
   
 ## Inventory
@@ -21,4 +32,9 @@
 
 ## Accounting
 ### Jurnal Entry
+
+## Closing
+### Balance Sheet
+### Profit Loss
+### HPP Global
 
