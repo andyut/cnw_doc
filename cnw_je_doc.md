@@ -10,7 +10,13 @@
 ---
 ## Keterangan  
 
-CNW JE modul yang digunakan untuk memasukan **Jurnal Entry SAP** menggunakan ***web Services Intidata***. 
+CNW JE modul yang digunakan untuk memasukan **Jurnal Entry SAP** menggunakan ***web Services Intidata***.  
+
+### Menu 
+```mermaid
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAzODQyNTY5Niw0MzA2ODkwMTEsLTIwOD
+g3NDY2MTJdfQ==
 -->
