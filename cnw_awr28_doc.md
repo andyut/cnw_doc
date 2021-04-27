@@ -40,7 +40,11 @@ D4 --> D4c(AR Aging per Date)
 D --> D5(Jurnal Entry)
 
 E(Closing) --> E1(Trial Balance)
-E --> E2(Balance Sheet
+E --> E2(Balance Sheet)
+E --> E3(Balance Sheet)
+E --> E4(Balance Sheet)
+E --> E5(Balance Sheet)
+
 ```
 
 ## Laba Rugi
@@ -95,6 +99,6 @@ E --> E2(Balance Sheet
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY3MzA0NDMsMTUxNjM1NjEyNiwxND
+eyJoaXN0b3J5IjpbLTE2ODM0MjQ5NzAsMTUxNjM1NjEyNiwxND
 M1MDQwMzE2LDIwMDQ1MzI1MDcsLTE3ODA0ODUyM119
 -->
