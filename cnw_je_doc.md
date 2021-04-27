@@ -63,9 +63,9 @@ Form
 * KK : Kas Kredit
 * KD : Kas Debet
 
-
+	Jika pilihan BK, BD, KD, KK maka cetakannya akan muncul jenis cetakan Voucher pengeluaran/penerimaan kas/bank. Jika pilihannya 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzczMDUxMSwtNDEyMjIxNjYxLDEwNz
-cxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5
-MDExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMzQ4MDU4NDQsLTQxMjIyMTY2MSwxMDc3MT
+gwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OTAx
+MSwtMjA4ODc0NjYxMl19
 -->
