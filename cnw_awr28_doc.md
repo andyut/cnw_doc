@@ -11,8 +11,16 @@
 ## Keterangan
 
 	Modul khusus untuk laporan keuangan, audit, dan control. Terdiri dari :
-
 ### *Menu*
+```mermaid
+graph TD
+A(Menu) --> B(Laba Rugi)
+A(Menu) --> B(Laba Rugi)
+A(Menu) --> B(Laba Rugi)
+A(Menu) --> B(Laba Rugi)
+
+```
+### *Sub Menu*
 
 ```mermaid
 graph LR
@@ -41,9 +49,9 @@ D --> D5(Jurnal Entry)
 
 E(Closing) --> E1(Trial Balance)
 E --> E2(Balance Sheet)
-E --> E3(Balance Sheet)
-E --> E4(Balance Sheet)
-E --> E5(Balance Sheet)
+E --> E3(Profit Loss)
+E --> E4(HPP Global)
+E --> E5(Lap Harian)
 
 ```
 
@@ -99,6 +107,6 @@ E --> E5(Balance Sheet)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM0MjQ5NzAsMTUxNjM1NjEyNiwxND
+eyJoaXN0b3J5IjpbLTE3NjM2MDI0ODQsMTUxNjM1NjEyNiwxND
 M1MDQwMzE2LDIwMDQ1MzI1MDcsLTE3ODA0ODUyM119
 -->
