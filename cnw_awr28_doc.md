@@ -23,15 +23,17 @@
 ### Cash Flow
   
   
-## Inventory Audit
-### Inventory Audit Report
+## Inventory Audit 
 ### Saldo Akhir Persediaan Barang
+### Realisasi Import / Kartu Stock
   
   
-## Sales & Purchase
-### Delivery Report
-### Laporan Penjualan
-### Delivery Belum jadi Invoice
+## Sales Analysis
+### laporan DO Harian (Full Report)
+
+### Penjualan (Delivery)
+### Penjualan (Invoice)
+### Lap DO Belum Jadi Invoice
 
 
 ## Accounting
@@ -43,5 +45,5 @@
 ### HPP Global
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjIwNzM1MiwtMTc4MDQ4NTIzXX0=
+eyJoaXN0b3J5IjpbMTI0NTAyMjY4LC0xNzgwNDg1MjNdfQ==
 -->
