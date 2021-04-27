@@ -10,7 +10,12 @@
 
 ## Keterangan
 
+	Modul khusus untuk laporan keuangan, audit, dan control. Terdiri dari
 
+```mermaid
+graph LR
+A(MEN
+```
 
 ## Laba Rugi
 ### Laba Rugi Per Item
@@ -64,5 +69,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjkzMTM3NiwtMTc4MDQ4NTIzXX0=
+eyJoaXN0b3J5IjpbMTk3OTI1MjIxNiwtMTc4MDQ4NTIzXX0=
 -->
