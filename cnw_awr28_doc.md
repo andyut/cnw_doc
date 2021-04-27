@@ -22,7 +22,13 @@ A --> A2(Cash Flow)
 B(Inventory Audit) --> B1(Saldo Akhir Persediaan)
 B --> B2(Realisasi Import / Kartu Stock)
 
-C(Sales Analysis) --> C1(Laporan DO Harian ==Full Report )
+C(Sales Analysis) --> C1(Laporan DO Harian ==Full Report==)
+C --> C2(Penjualan Delivery)
+C --> C3(Penjualan Invoice)
+C --> C4(Lap DO Belum Jadi Invoice)
+
+
+
 
 
 
@@ -80,5 +86,5 @@ C(Sales Analysis) --> C1(Laporan DO Harian ==Full Report )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc0OTk0NjIsLTE3ODA0ODUyM119
+eyJoaXN0b3J5IjpbMjAwNDUzMjUwNywtMTc4MDQ4NTIzXX0=
 -->
