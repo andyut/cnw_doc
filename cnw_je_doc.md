@@ -94,10 +94,10 @@ A --> B{Is SAP Partner?}
 B -->|No| C(Input Manual Partner atau dikosongkan ==Optional== )
 B -->|Yes| D(Pilih list Partner dari drownDown menu)
 D -->E{Tidak ada Di List}
-E -->|Yes| F(Load / Ref
+E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTI2NTYzMSwxMTAwODM4NzY2LC0xMT
+eyJoaXN0b3J5IjpbLTg5NTY0NzI3MiwxMTAwODM4NzY2LC0xMT
 YwMDcxNDU5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYx
 LDEwNzcxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsND
 MwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
