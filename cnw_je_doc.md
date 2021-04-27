@@ -14,9 +14,11 @@ CNW JE modul yang digunakan untuk memasukan **Jurnal Entry SAP** menggunakan ***
 
 ### Menu 
 ```mermaid
+graph TD
+A(CNW JE) --> B(List Voucher)
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODQyNTY5Niw0MzA2ODkwMTEsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTUwOTQ4ODIsNDMwNjg5MDExLC0yMD
+g4NzQ2NjEyXX0=
 -->
