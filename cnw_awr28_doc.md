@@ -15,9 +15,10 @@
 ```mermaid
 graph TD
 A(Menu) --> B(Laba Rugi)
-A(Menu) --> B(Laba Rugi)
-A(Menu) --> B(Laba Rugi)
-A(Menu) --> B(Laba Rugi)
+A(Menu) --> C(Inventory Audit)
+A(Menu) --> D(Sales Analysis)
+A(Menu) --> E(Accounting)
+A(Menu) --> F(Closing)
 
 ```
 ### *Sub Menu*
@@ -107,6 +108,6 @@ E --> E5(Lap Harian)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM2MDI0ODQsMTUxNjM1NjEyNiwxND
-M1MDQwMzE2LDIwMDQ1MzI1MDcsLTE3ODA0ODUyM119
+eyJoaXN0b3J5IjpbMTUyNzgzMTY2MiwxNTE2MzU2MTI2LDE0Mz
+UwNDAzMTYsMjAwNDUzMjUwNywtMTc4MDQ4NTIzXX0=
 -->
