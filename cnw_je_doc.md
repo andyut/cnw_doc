@@ -81,10 +81,12 @@ Penomoran SAP berdasarkan pilihan Type ini
 [kd] = [KD]{year}{month}[999999]
 [jv] = [JV]{year}{month}[999999]
 [jl] = [JL]{year}{month}[999999]
+```
 
+**Is Remark Printed** : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAwNzE0NTksMTg1ODA0MzE4LDMwMz
-E4MzExLC00MTIyMjE2NjEsMTA3NzE4MDQyMCwtMTcwMzk5NTg5
-NywtMTk1NTA5NDg4Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTg4ODA4MzI0OSwtMTE2MDA3MTQ1OSwxOD
+U4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MTgwNDIw
+LC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OTAxMSwtMj
+A4ODc0NjYxMl19
 -->
