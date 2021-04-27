@@ -56,15 +56,16 @@ Form
 **Doc Date** : Tanggal dokumen
 **Type** : Jenis Jurnal Entry
 	Daftar Jenis Tipe Jurnal Entry :
-* JL
-* JV
-* BK
-* BD
-* KK
-* KD
+* JL : Jurnal Lain
+* JV : Jurnal Penyesuaian
+* BK : Bank Kredit
+* BD : Bank Debet
+* KK : Kas Kredit
+* KD : Kas Debet
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDI2Mjg0MSwtNDEyMjIxNjYxLDEwNz
+eyJoaXN0b3J5IjpbMTIzNzczMDUxMSwtNDEyMjIxNjYxLDEwNz
 cxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5
 MDExLC0yMDg4NzQ2NjEyXX0=
 -->
