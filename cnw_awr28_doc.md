@@ -10,14 +10,21 @@
 
 ## Keterangan
 
-	Modul khusus untuk laporan keuangan, audit, dan control. Terdiri dari
+	Modul khusus untuk laporan keuangan, audit, dan control. Terdiri dari :
+
+### *Menu*
 
 ```mermaid
 graph LR
 A(Laba Rugi) --> A1(Laba Rugi Per Item)
 A --> A2(Cash Flow)
 
-B(Inventory Audit) --> B1(
+B(Inventory Audit) --> B1(Saldo Akhir Persediaan)
+B --> B2(Realisasi Import / Kartu Stock)
+
+C
+
+
 
 ```
 
@@ -73,5 +80,5 @@ B(Inventory Audit) --> B1(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE4NDk5MTMsLTE3ODA0ODUyM119
+eyJoaXN0b3J5IjpbLTE5MTQ4OTU4MTIsLTE3ODA0ODUyM119
 -->
