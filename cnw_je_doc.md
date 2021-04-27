@@ -16,9 +16,12 @@ CNW JE modul yang digunakan untuk memasukan **Jurnal Entry SAP** menggunakan ***
 ```mermaid
 graph TD
 A(CNW JE) --> B(List Voucher)
+A(CNW JE) --> C(Income / Expense)
+A(CNW JE) --> D(SAP Jurnal Entry)
+A(CNW JE) --> E(Account Setting)
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTUwOTQ4ODIsNDMwNjg5MDExLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAyMzI2MzI5MywtMTk1NTA5NDg4Miw0Mz
+A2ODkwMTEsLTIwODg3NDY2MTJdfQ==
 -->
