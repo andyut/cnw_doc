@@ -72,7 +72,7 @@ B -->|BK, BD,KK,KD| C[Kasbon Penerimaan / Pengeluaran]
 B -->|JV,JL| D[Jurnal Penyesuaian / Pemindahan]
 
 ```
-Penomoran SAP berdasarkan Type ini 
+Penomoran SAP berdasarkan pilihan Type ini 
 
 ```python
 [bk] = [BK]{year}{month}[999999]
@@ -83,7 +83,8 @@ Penomoran SAP berdasarkan Type ini
 [jl] = [JL]{year}{month}[999999]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMj
-E2NjEsMTA3NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4
-Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExNjAwNzE0NTksMTg1ODA0MzE4LDMwMz
+E4MzExLC00MTIyMjE2NjEsMTA3NzE4MDQyMCwtMTcwMzk5NTg5
+NywtMTk1NTA5NDg4Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ
+==
 -->
