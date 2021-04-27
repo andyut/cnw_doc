@@ -51,9 +51,12 @@ Form
 ## SAP Jurnal Entry -> Jurnal Entry
 
 ### Field 
-**Name** : Nomor Internal J
+**Name** : Nomor Internal Jurnal Entry CNW
+**Company** : Company yang aktif
+** Doc Date** : Tanggal dokumen
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzczMzkyNCwtNDEyMjIxNjYxLDEwNz
-cxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5
-MDExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0MDc1MDM3MDUsLTQxMjIyMTY2MSwxMD
+c3MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4
+OTAxMSwtMjA4ODc0NjYxMl19
 -->
