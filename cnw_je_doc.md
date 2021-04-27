@@ -28,10 +28,15 @@ graph LR
 A(List Voucher) --> A1(Voucher / Kasbon)
 B(Income / Expense) --> B1(Entertain)
 C(SAP Jurnal Entry) --> C1(Journal Entry)
-C(SAP Jurnal Entry) --> C1(Journal Entry)
+D(Account Setting) --> D1(Account)
+D(Account Setting) --> D2(Department)
+D(Account Setting) --> D3(Divisi)
+D(Account Setting) --> D4(Expense Type)
+D(Account Setting) --> D5(SAP Business PAr)
+
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsND
-MwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNjYyOTcyOTUsLTE3MDM5OTU4OTcsLTE5NT
+UwOTQ4ODIsNDMwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
 -->
