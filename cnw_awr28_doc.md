@@ -34,7 +34,10 @@ D3 --> D3a(Pembelian Detail)
 D3 --> D3b(Pembelian Summary)
 
 D --> D4(Penjualan)
-D4 -
+D4 --> D4a(AR Aging)
+D4 --> D4a(Unpaid Invoice -- Aging Detail)
+D4 --> D4a(AR Aging)
+
 D --> D5(Pembayaran Harian)
 D --> D6(Pembayaran Harian)
 D --> D7(Pembayaran Harian)
@@ -102,6 +105,6 @@ D --> D10(Pembayaran Harian)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDYwNDc1NjQsMjAwNDUzMjUwNywtMT
-c4MDQ4NTIzXX0=
+eyJoaXN0b3J5IjpbMTQzNTA0MDMxNiwyMDA0NTMyNTA3LC0xNz
+gwNDg1MjNdfQ==
 -->
