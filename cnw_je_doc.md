@@ -96,9 +96,11 @@ B -->|Yes| D(Pilih list Partner dari drownDown menu)
 D -->E{Tidak ada Di List}
 E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTY0NzI3MiwxMTAwODM4NzY2LC0xMT
-YwMDcxNDU5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYx
-LDEwNzcxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsND
-MwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTY4ODI1MTIxMiwtODk1NjQ3MjcyLDExMD
+A4Mzg3NjYsLTExNjAwNzE0NTksMTg1ODA0MzE4LDMwMzE4MzEx
+LC00MTIyMjE2NjEsMTA3NzE4MDQyMCwtMTcwMzk5NTg5NywtMT
+k1NTA5NDg4Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ==
 -->
