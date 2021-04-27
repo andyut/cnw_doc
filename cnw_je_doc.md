@@ -50,6 +50,10 @@ Form
 
 ## SAP Jurnal Entry -> Jurnal Entry
 
+### Form View
+!(Odoo)[https://www.dropbox.com/s/w8tgqavs7sjxsmu/WhatsApp%20Image%202021-04-27%20at%205.29.23%20PM.jpeg?dl=1]
+
+
 ### Field 
 **Name** : Nomor Internal Jurnal Entry CNW
 **Company** : Company yang aktif
@@ -99,8 +103,9 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODI1MTIxMiwtODk1NjQ3MjcyLDExMD
-A4Mzg3NjYsLTExNjAwNzE0NTksMTg1ODA0MzE4LDMwMzE4MzEx
-LC00MTIyMjE2NjEsMTA3NzE4MDQyMCwtMTcwMzk5NTg5NywtMT
-k1NTA5NDg4Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTQxNDMzMTg2NiwtNjg4MjUxMjEyLC04OT
+U2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MTQ1OSwxODU4MDQz
+MTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MTgwNDIwLC0xNz
+AzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OTAxMSwtMjA4ODc0
+NjYxMl19
 -->
