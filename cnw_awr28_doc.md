@@ -14,7 +14,11 @@
 
 ```mermaid
 graph LR
-A(MEN
+A(Laba Rugi) --> A1(Laba Rugi Per Item)
+A --> A2(Cash Flow)
+
+B(Inventory Audit) --> B1(
+
 ```
 
 ## Laba Rugi
@@ -69,5 +73,5 @@ A(MEN
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTI1MjIxNiwtMTc4MDQ4NTIzXX0=
+eyJoaXN0b3J5IjpbLTEzMzE4NDk5MTMsLTE3ODA0ODUyM119
 -->
