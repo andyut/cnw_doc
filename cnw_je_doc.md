@@ -72,8 +72,12 @@ B -->|BK, BD,KK,KD| C[Kasbon Penerimaan / Pengeluaran]
 B -->|JV,JL| D[Jurnal Penyesuaian / Pemindahan]
 
 ```
+Penomoran SAP berdasarkan Type ini 
+
+```python
+[bk] = [bk]{{year}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MT
-gwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OTAx
-MSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEwNDI3MTg3OTEsMzAzMTgzMTEsLTQxMj
+IyMTY2MSwxMDc3MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0
+ODgyLDQzMDY4OTAxMSwtMjA4ODc0NjYxMl19
 -->
