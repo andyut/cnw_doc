@@ -37,16 +37,16 @@ D(Account Setting) --> D5(SAP Business Partner)
 
 ```
 ---  
-## List Voucher
+## List Voucher -> Voucher
 
 Form 
 
 	Catatan : Belum Integrated dengan Jurnal Entry SAP
 
-## Entertain
+## Income / Expense -> Entertain
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkzMTIxMDIsLTQxMjIyMTY2MSwxMD
-c3MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4
-OTAxMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNDI3NjM3OTY2LC00MTIyMjE2NjEsMTA3Nz
+E4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2ODkw
+MTEsLTIwODg3NDY2MTJdfQ==
 -->
