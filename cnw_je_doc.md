@@ -51,7 +51,12 @@ Form
 ## SAP Jurnal Entry -> Jurnal Entry
 
 ### Form View
-!(Odoo)[https://www.dropbox.com/s/w8tgqavs7sjxsmu/WhatsApp%20Image%202021-04-27%20at%205.29.23%20PM.jpeg?dl=1]
+![Odoo](https://www.dropbox.com/s/w8tgqavs7sjxsmu/WhatsApp%20Image%202021-04-27%20at%205.29.23%20PM.jpeg?dl=1)
+
+Mapping dengan SAP Business One
+
+![SAP B1](https://www.dropbox.com/s/md3aqf9uwd0sn2d/WhatsApp%20Image%202021-04-27%20at%205.29.24%20PM.jpeg?dl=1)
+
 
 
 ### Field 
@@ -103,9 +108,9 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDMzMTg2NiwtNjg4MjUxMjEyLC04OT
-U2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MTQ1OSwxODU4MDQz
-MTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MTgwNDIwLC0xNz
-AzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OTAxMSwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbLTE0ODI4NTAwMDgsLTY4ODI1MTIxMiwtOD
+k1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNzE0NTksMTg1ODA0
+MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3NzE4MDQyMCwtMT
+cwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2ODkwMTEsLTIwODg3
+NDY2MTJdfQ==
 -->
