@@ -39,7 +39,8 @@ D4 --> D4b(Unpaid Invoice -- Aging Detail)
 D4 --> D4c(AR Aging per Date)
 D --> D5(Jurnal Entry)
 
-
+E(Closing) --> E1(Trial Balance)
+E --> E2(Balance Sheet
 ```
 
 ## Laba Rugi
@@ -94,6 +95,6 @@ D --> D5(Jurnal Entry)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjM1NjEyNiwxNDM1MDQwMzE2LDIwMD
-Q1MzI1MDcsLTE3ODA0ODUyM119
+eyJoaXN0b3J5IjpbLTE5NTY3MzA0NDMsMTUxNjM1NjEyNiwxND
+M1MDQwMzE2LDIwMDQ1MzI1MDcsLTE3ODA0ODUyM119
 -->
