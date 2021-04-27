@@ -68,10 +68,12 @@ Form
 ```mermaid
 graph TD
 A[JE] --> B{Type?}
-B -->[BK, BD,KK,KD]
+B -->|BK, BD,KK,KD| C[Kasbon Penerimaan / Pengeluaran]
+B -->|JV,JL| D[Jurnal Penyesuaian / Pemindahan]
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTEwNjU3NSwtNDEyMjIxNjYxLDEwNz
-cxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5
-MDExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MT
+gwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OTAx
+MSwtMjA4ODc0NjYxMl19
 -->
