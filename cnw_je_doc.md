@@ -83,9 +83,12 @@ Penomoran SAP berdasarkan pilihan Type ini
 [jl] = [JL]{year}{month}[999999]
 ```
 
-**Is Remark Printed** : 
+**Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di Thick maka remark nya dicetak  
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODA4MzI0OSwtMTE2MDA3MTQ1OSwxOD
+eyJoaXN0b3J5IjpbMTEwMDgzODc2NiwtMTE2MDA3MTQ1OSwxOD
 U4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MTgwNDIw
 LC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OTAxMSwtMj
 A4ODc0NjYxMl19
