@@ -19,9 +19,16 @@ A(CNW JE) --> B(List Voucher)
 A(CNW JE) --> C(Income / Expense)
 A(CNW JE) --> D(SAP Jurnal Entry)
 A(CNW JE) --> E(Account Setting)
+```
+
+### Sub Menu
+
+```mermaid
+graph LR
+A(List Voucher) --> A1(Voucher / Kasbon)
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzI2MzI5MywtMTk1NTA5NDg4Miw0Mz
+eyJoaXN0b3J5IjpbMTMwNzY4MTAwNCwtMTk1NTA5NDg4Miw0Mz
 A2ODkwMTEsLTIwODg3NDY2MTJdfQ==
 -->
