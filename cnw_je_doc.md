@@ -85,11 +85,15 @@ Penomoran SAP berdasarkan pilihan Type ini
 
 **Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di Thick maka remark nya dicetak  
 
+**Is SAP Partner** : Berhubungan dengan SAP business Partner atau tidak
 
-
+```mermaid
+graph TD
+A(
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDgzODc2NiwtMTE2MDA3MTQ1OSwxOD
-U4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MTgwNDIw
-LC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OTAxMSwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTIxOTY1ODEyMiwxMTAwODM4NzY2LC0xMT
+YwMDcxNDU5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYx
+LDEwNzcxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsND
+MwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
 -->
