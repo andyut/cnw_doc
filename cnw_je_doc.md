@@ -91,10 +91,11 @@ Penomoran SAP berdasarkan pilihan Type ini
 graph TD
 A --> B{Is SAP Partner?}
 
-B -->|No| C(
+B -->|No| C(Input Manual Partner atau dikosongkan ==Optional== )
+B -->|Yes| D(Pilih list
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDMyMDY5NywxMTAwODM4NzY2LC0xMT
+eyJoaXN0b3J5IjpbMTE3ODg0NDM4NCwxMTAwODM4NzY2LC0xMT
 YwMDcxNDU5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYx
 LDEwNzcxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsND
 MwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
