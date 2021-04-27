@@ -92,10 +92,12 @@ graph TD
 A --> B{Is SAP Partner?}
 
 B -->|No| C(Input Manual Partner atau dikosongkan ==Optional== )
-B -->|Yes| D(Pilih list
+B -->|Yes| D(Pilih list Partner dari drownDown menu)
+D -->E{Tidak ada Di List}
+E -->|Yes| F(Load / Ref
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODg0NDM4NCwxMTAwODM4NzY2LC0xMT
+eyJoaXN0b3J5IjpbMTg2MTI2NTYzMSwxMTAwODM4NzY2LC0xMT
 YwMDcxNDU5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYx
 LDEwNzcxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsND
 MwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
