@@ -48,9 +48,12 @@ Form
 	Catatan : Belum Integrated dengan Jurnal Entry SAP
 
 
-##
+## SAP Jurnal Entry -> Jurnal Entry
+
+### Field 
+**Name** : Nomor Internal J
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODQyNDg0MSwtNDEyMjIxNjYxLDEwNz
+eyJoaXN0b3J5IjpbMTk4NzczMzkyNCwtNDEyMjIxNjYxLDEwNz
 cxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5
 MDExLC0yMDg4NzQ2NjEyXX0=
 -->
