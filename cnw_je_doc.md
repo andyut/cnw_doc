@@ -89,10 +89,12 @@ Penomoran SAP berdasarkan pilihan Type ini
 
 ```mermaid
 graph TD
-A(
+A --> B{Is SAP Partner?}
+
+B -->|No| C(
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTY1ODEyMiwxMTAwODM4NzY2LC0xMT
+eyJoaXN0b3J5IjpbMTM1NDMyMDY5NywxMTAwODM4NzY2LC0xMT
 YwMDcxNDU5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYx
 LDEwNzcxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsND
 MwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
