@@ -27,7 +27,18 @@ C --> C2(Penjualan Delivery)
 C --> C3(Penjualan Invoice)
 C --> C4(Lap DO Belum Jadi Invoice)
 
-D(
+D(Accounting) --> D1(Aging Payable)
+D --> D2(Pembayaran Harian)
+D --> D3(Pembelian)
+D3 --> D31
+D --> D4(Pembayaran Harian)
+D --> D5(Pembayaran Harian)
+D --> D6(Pembayaran Harian)
+D --> D7(Pembayaran Harian)
+D --> D8(Pembayaran Harian)
+D --> D9(Pembayaran Harian)
+D --> D10(Pembayaran Harian)
+
 
 
 
@@ -88,6 +99,6 @@ D(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTQ4Mzg3LDIwMDQ1MzI1MDcsLTE3OD
-A0ODUyM119
+eyJoaXN0b3J5IjpbLTExMjgxNzMyODMsMjAwNDUzMjUwNywtMT
+c4MDQ4NTIzXX0=
 -->
