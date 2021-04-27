@@ -53,10 +53,18 @@ Form
 ### Field 
 **Name** : Nomor Internal Jurnal Entry CNW
 **Company** : Company yang aktif
-** Doc Date** : Tanggal dokumen
+**Doc Date** : Tanggal dokumen
+**Type** : Jenis Jurnal Entry
+	Daftar Jenis Tipe Jurnal Entry :
+* JL
+* JV
+* BK
+* BD
+* KK
+* KD
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc1MDM3MDUsLTQxMjIyMTY2MSwxMD
-c3MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4
-OTAxMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIyMDI2Mjg0MSwtNDEyMjIxNjYxLDEwNz
+cxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5
+MDExLC0yMDg4NzQ2NjEyXX0=
 -->
