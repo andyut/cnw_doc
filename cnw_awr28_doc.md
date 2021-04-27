@@ -11,6 +11,7 @@
 ## Keterangan
 
 
+
 ## Laba Rugi
 ### Laba Rugi Per Item
     Laba rugi per Item  summary per customer, berdasarkan range tanggal yang diinput
@@ -47,14 +48,21 @@
 ### Penjualan 
 #### AR Aging 
 #### Unpaid Invoice ( Aging Detail)
-$
+#### AR Aging Per Date
+
+### Jurnal Entry
+
 
 
 ## Closing
+### Trial Balance
 ### Balance Sheet
 ### Profit Loss
 ### HPP Global
+### lap Harian
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMyMTAyMDMsLTE3ODA0ODUyM119
+eyJoaXN0b3J5IjpbMjEzNjkzMTM3NiwtMTc4MDQ4NTIzXX0=
 -->
