@@ -32,11 +32,11 @@ D(Account Setting) --> D1(Account)
 D(Account Setting) --> D2(Department)
 D(Account Setting) --> D3(Divisi)
 D(Account Setting) --> D4(Expense Type)
-D(Account Setting) --> D5(SAP Business PAr)
+D(Account Setting) --> D5(SAP Business Partner)
 
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyOTcyOTUsLTE3MDM5OTU4OTcsLTE5NT
-UwOTQ4ODIsNDMwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNzk2MzI4Mjk2LC0xNzAzOTk1ODk3LC0xOT
+U1MDk0ODgyLDQzMDY4OTAxMSwtMjA4ODc0NjYxMl19
 -->
