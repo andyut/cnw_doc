@@ -44,9 +44,12 @@ Form
 	Catatan : Belum Integrated dengan Jurnal Entry SAP
 
 ## Income / Expense -> Entertain
+Form
+	Catatan : Belum Integrated dengan Jurnal Entry SAP
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NjM3OTY2LC00MTIyMjE2NjEsMTA3Nz
-E4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2ODkw
-MTEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTM4MjAwNzg2NywtNDEyMjIxNjYxLDEwNz
+cxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5
+MDExLC0yMDg4NzQ2NjEyXX0=
 -->
