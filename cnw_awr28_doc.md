@@ -27,6 +27,8 @@ C --> C2(Penjualan Delivery)
 C --> C3(Penjualan Invoice)
 C --> C4(Lap DO Belum Jadi Invoice)
 
+D(
+
 
 
 
@@ -86,5 +88,6 @@ C --> C4(Lap DO Belum Jadi Invoice)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDUzMjUwNywtMTc4MDQ4NTIzXX0=
+eyJoaXN0b3J5IjpbMTcxNTQ4Mzg3LDIwMDQ1MzI1MDcsLTE3OD
+A0ODUyM119
 -->
