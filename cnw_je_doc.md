@@ -75,15 +75,15 @@ B -->|JV,JL| D[Jurnal Penyesuaian / Pemindahan]
 Penomoran SAP berdasarkan Type ini 
 
 ```python
-[bk] = [bk]{year}[999999]
-[bd] = [bk]{year}[999999]
-[kk] = [bk]{year}[999999]
-[kd] = [bk]{year}[999999]
-[jv] = [bk]{year}[999999]
-[jl] = [JL]{year}[999999]
+[bk] = [BK]{year}{month}[999999]
+[bd] = [BD]{year}{month}[999999]
+[kk] = [KK]{year}{month}[999999]
+[kd] = [KD]{year}{month}[999999]
+[jv] = [JV]{year}{month}[999999]
+[jl] = [JL]{year}{month}[999999]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTAwNDAzOSwzMDMxODMxMSwtNDEyMj
-IxNjYxLDEwNzcxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4
-ODIsNDMwNjg5MDExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMj
+E2NjEsMTA3NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4
+Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ==
 -->
