@@ -10,7 +10,7 @@
 ---
 ## Keterangan  
 
-CNW JE modul yang digunakan untuk memasukan **Jurnal Entry SAP** menggunakan ***web Services Intidata***.  
+CNW JE modul yang digunakan untuk memasukan **Jurnal Entry SAP** menggunakan ***web Services Intidata***.  Mencakup Jurnal entry, cost center, control account, cetakan vocher.
 
 ### Menu 
 ```mermaid
@@ -37,6 +37,6 @@ D(Account Setting) --> D5(SAP Business Partner)
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MzI4Mjk2LC0xNzAzOTk1ODk3LC0xOT
-U1MDk0ODgyLDQzMDY4OTAxMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTA3NzE4MDQyMCwtMTcwMzk5NTg5NywtMT
+k1NTA5NDg4Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ==
 -->
