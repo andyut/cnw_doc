@@ -106,7 +106,7 @@ Penomoran SAP berdasarkan pilihan Type ini
 [jl] = [JL]{year}{month}[999999]
 ```
 
-**Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di Thick maka remark nya dicetak  
+**Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di ==Thick==  maka remark nya dicetak  
 
 **Is SAP Partner** : Berhubungan dengan SAP business Partner atau tidak
 
@@ -125,10 +125,10 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwODk4NTgzLC0xNTQ5MzkxMjIxLC0xNz
-gzMzg2Mjc1LC0yMDQ4MjMzMTQxLC0xNDgyODUwMDA4LC02ODgy
-NTEyMTIsLTg5NTY0NzI3MiwxMTAwODM4NzY2LC0xMTYwMDcxND
-U5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYxLDEwNzcx
-ODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5MD
-ExLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTc0NTAwMTY0OSwtMTU0OTM5MTIyMSwtMT
+c4MzM4NjI3NSwtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwtNjg4
+MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MT
+Q1OSwxODU4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3
+MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OT
+AxMSwtMjA4ODc0NjYxMl19
 -->
