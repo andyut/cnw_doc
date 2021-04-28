@@ -61,9 +61,9 @@ Laporan Pembelian SAP berdasarkan AP invoice Dan good Receipt PO. Jika terjadi p
 ```mermaid
 graph TD
 A(Good Receipt PO) --> A1(AP Invoice)
-A1 --> A2(Landed Cost) 
+A --> A2(Landed Cost) 
 
-A1 --> B{Perbedaan Qty? over missing}
+A1 --> B{Over missing Qty ?}
 B -->|Y| C(Rubah nilai sesuai invoice Supplier)
 C --> D{Stock Habis}
 D-->|Y| E([selisih dibuang ke HPP Price Difference])
@@ -78,8 +78,8 @@ F--> G[[ Update ke OINM ]]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg4Mzk2MTYsLTU5MTU3OTI4MywtMT
-U4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkx
-MjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLT
-EwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
+eyJoaXN0b3J5IjpbMTc5MDg1MjY2MywtNTkxNTc5MjgzLC0xNT
+g1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEy
+MywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMT
+A4NTE1MTYzMSwtMTY5MjA4NTUzM119
 -->
