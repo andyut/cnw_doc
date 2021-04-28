@@ -121,11 +121,13 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 ```
 Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Yes**, karena kode BP tersebut akan masuk ke dalam ***CardCode*** Didalam Table Jurnal entry (  *JDT1* )
 
-**Partner SAP** : Dropdown untuk memilih SAP Partner, jika tipe Account menggunakan **Control Account**  maka akan masuk ke dalam CardCode di JDT1 , dan Business Card ID di UDF JDT1.  Jika Tidak 
+**Partner SAP** : Dropdown untuk memilih SAP Partner, jika tipe Account menggunakan **Control Account**  maka akan masuk ke dalam CardCode di JDT1 , dan Business Card ID di UDF JDT1.  Jika Tidak menggunakan **Control Account** maka akan ditempel nama customer di field remarks
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU1NDI0MTksLTE1NDkzOTEyMjEsLT
+eyJoaXN0b3J5IjpbLTEzMDc0MTAwNzcsLTE1NDkzOTEyMjEsLT
 E3ODMzODYyNzUsLTIwNDgyMzMxNDEsLTE0ODI4NTAwMDgsLTY4
 ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNz
 E0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3
