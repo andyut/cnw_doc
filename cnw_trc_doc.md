@@ -24,11 +24,12 @@ Modul TRC merupakan tracking dan prepare dokumen untuk menyiapkan barang di guda
 ## Alur Dokumen
 
 ```mermaid
+A(Sales Order) --> A1[(Sales Order Con)] 
 
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk4NTUzNDIsMTYyNDkyODcxMSwtMT
-U4OTM1MzU3Myw5NzEyNzg2NzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDk5ODEwMywxNjI0OTI4NzExLC0xNT
+g5MzUzNTczLDk3MTI3ODY3MV19
 -->
