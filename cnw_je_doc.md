@@ -123,14 +123,16 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 **Partner SAP** : Dropdown untuk memilih SAP Partner, jika tipe Account menggunakan **Control Account**  maka akan masuk ke dalam CardCode di JDT1 , dan Business Card ID di UDF JDT1.  Jika Tidak menggunakan **Control Account** maka akan ditempel nama customer di field remarks
 
+**Other Partner ** : *Optional,
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc0MTAwNzcsLTE1NDkzOTEyMjEsLT
-E3ODMzODYyNzUsLTIwNDgyMzMxNDEsLTE0ODI4NTAwMDgsLTY4
-ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNz
-E0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3
-NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2OD
-kwMTEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTQzOTI5OTE0MSwtMTU0OTM5MTIyMSwtMT
+c4MzM4NjI3NSwtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwtNjg4
+MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MT
+Q1OSwxODU4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3
+MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OT
+AxMSwtMjA4ODc0NjYxMl19
 -->
