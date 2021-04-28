@@ -43,7 +43,7 @@ Dapat Dicek dari 4 bagian modul
 * **4. Laporan HPP Global**
 
 
-**Purchase Analysis**
+**1. Purchase Analysis SAP**
 
 Menu --> Purchase Analysis Item
 ![Purchase Analysis](https://www.dropbox.com/s/tznp53s7e1n1p5i/PURCHASE%20DATA%20ITEM.png?dl=1)
@@ -85,9 +85,9 @@ F--> I[[ Update ke OITW - Item Cost ]]
 ```
 
 
-
+**Purchase Analysis**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAzNzY2ODUsLTU5MTU3OTI4MywtMT
+eyJoaXN0b3J5IjpbLTE2NTAxNzU4MTcsLTU5MTU3OTI4MywtMT
 U4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkx
 MjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLT
 EwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
