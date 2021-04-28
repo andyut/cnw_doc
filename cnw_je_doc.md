@@ -137,7 +137,7 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 **(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
 **(15) Account** :Account dari SAP Business One    
 **(16) Remark** : Keterangan baris   
-**(17) Printed as Total In Kasbon** : Jika checklist, maka akan   
+**(17) Printed as Total In Kasbon** : Jika checklist, maka akan dihitung nilai dari *absolut (Debet - Credit)* , 
 **(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
 **(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
 **(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
@@ -157,7 +157,7 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzg1MjkyMCwxNDEwNDg1MDczLDIxMT
+eyJoaXN0b3J5IjpbLTg1MzA1MTg3NCwxNDEwNDg1MDczLDIxMT
 Q1MDM1MTAsLTE1NDkzOTEyMjEsLTE3ODMzODYyNzUsLTIwNDgy
 MzMxNDEsLTE0ODI4NTAwMDgsLTY4ODI1MTIxMiwtODk1NjQ3Mj
 cyLDExMDA4Mzg3NjYsLTExNjAwNzE0NTksMTg1ODA0MzE4LDMw
