@@ -121,17 +121,18 @@ union all
 select          'Landed Cost (HPP)',isnull(@v_landedHPP,0) Landedhpp  
 ```
 
-Total Landed = Total Landed di Inventory + Total Landed Di GL komponen HPP ( transtype=Landedcost)
+Total Landed A  = Total Landed di Inventory + Total Landed Di GL komponen HPP ( transtype=Landedcost)  
+Total Landed B = 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA4MDUyNDgsOTM5ODAxMTQsLTMxOD
-czMDM0LDE5NzEwNjIyMjgsLTMxODczMDM0LDE3NzQxMDg3OTcs
-LTEwMjkxODkyOTksLTU5MTU3OTI4MywtMTU4NTY0MjQ0NSw0Nz
-Q5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkxMjMsMjA5MzY2OTgx
-OSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLTEwODUxNTE2MzEsLT
-E2OTIwODU1MzNdfQ==
+eyJoaXN0b3J5IjpbODIyMjA2ODQ0LC0yMTQwODA1MjQ4LDkzOT
+gwMTE0LC0zMTg3MzAzNCwxOTcxMDYyMjI4LC0zMTg3MzAzNCwx
+Nzc0MTA4Nzk3LC0xMDI5MTg5Mjk5LC01OTE1NzkyODMsLTE1OD
+U2NDI0NDUsNDc0OTk0NjY0LC0yNTc3NzA5NDgsMTIxNzg5MTIz
+LDIwOTM2Njk4MTksLTcyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMD
+g1MTUxNjMxLC0xNjkyMDg1NTMzXX0=
 -->
