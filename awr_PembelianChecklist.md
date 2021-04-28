@@ -85,9 +85,11 @@ F--> I[[ Update ke OITW - Item Cost ]]
 ```
 
 
-**Purchase Analysis**
+**2. Inventory Audit Report**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTAxNzU4MTcsLTU5MTU3OTI4MywtMT
+eyJoaXN0b3J5IjpbLTEwMjkxODkyOTksLTU5MTU3OTI4MywtMT
 U4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkx
 MjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLT
 EwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
