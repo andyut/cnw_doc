@@ -133,7 +133,15 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 **(11) transID** :  Nomor ID JE SAP Business One  
 **(12) Number in SAP** : Kode ==Number==  JE Header SAP Business One  
 **(13) U_Trans_No** : Nomor Transaksi Akuntansi SAP Business One  
-**(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**
+**(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
+**(15) Account** :Account dari SAP Bu
+**(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
+**(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
+**(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
+**(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
+**(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
+**(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
+
 
 
 
@@ -148,10 +156,10 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDUwMzUxMCwtMTU0OTM5MTIyMSwtMT
-c4MzM4NjI3NSwtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwtNjg4
-MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MT
-Q1OSwxODU4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3
-MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OT
-AxMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTIxNjYzMTQwLDIxMTQ1MDM1MTAsLTE1ND
+kzOTEyMjEsLTE3ODMzODYyNzUsLTIwNDgyMzMxNDEsLTE0ODI4
+NTAwMDgsLTY4ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3Nj
+YsLTExNjAwNzE0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIy
+MjE2NjEsMTA3NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5ND
+g4Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ==
 -->
