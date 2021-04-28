@@ -65,6 +65,7 @@ A --> A2(Landed Cost)
 A2 -->A3{Stock Ada?}
 A3 -->|Y| A4(Bebankan Ke Stock)
 A3 -->|N| A5(Bebankan Ke HPP Price Difference)
+A3 -->|Kurang| A6(Bebankan Sebagian Ke HPP Price Difference dan stock)
  
 A1 --> B{Over missing Qty ?}
 B -->|Y| C(Rubah nilai sesuai invoice Supplier)
@@ -74,6 +75,7 @@ D-->|N| F([dibebankan ke barang yang ada])
 F--> H[[ Update ke JDT1 ]]
 E -->H[[ Update ke JDT1 ]] 
 F--> G[[ Update ke OINM ]]
+F--> I[[ Update ke OITW - itemcost ]]
 
 
 ```
@@ -81,8 +83,8 @@ F--> G[[ Update ke OINM ]]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTE0MTA0NywtNTkxNTc5MjgzLC0xNT
-g1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEy
-MywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMT
-A4NTE1MTYzMSwtMTY5MjA4NTUzM119
+eyJoaXN0b3J5IjpbLTEzMTk2MzI4OTQsLTU5MTU3OTI4MywtMT
+U4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkx
+MjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLT
+EwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
 -->
