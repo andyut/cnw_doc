@@ -169,20 +169,8 @@ Delete_from_SAP --> Approved
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjIwMzM2MywxNjU0NzExODEsLTEwMz
+eyJoaXN0b3J5IjpbLTczNzMxNjM2MywxNjU0NzExODEsLTEwMz
 k5MDkzMzIsMTgxMDAwNzg0MywyMDY3MTI5Mzk2LDE1MDE1ODE5
 NDMsMTQxMDQ4NTA3MywyMTE0NTAzNTEwLC0xNTQ5MzkxMjIxLC
 0xNzgzMzg2Mjc1LC0yMDQ4MjMzMTQxLC0xNDgyODUwMDA4LC02
