@@ -54,7 +54,10 @@ Menu --> Purchase Analysis
 
 
 Catatan :
-Laporan *Purchase Analysis* SAP Business total tidak termasuk **Freight**, dan **Landed Cost**
+Laporan *Purchase Analysis* SAP Business total tidak termasuk **Freight**, dan **Landed Cost**  
+
+Laporan *Purchase Analysis* dan *Purchase Analysis Item* bisa berbeda karena beberapa hal
+* Adanya Ap
 
 Laporan Pembelian SAP berdasarkan AP invoice Dan good Receipt PO. Jika terjadi perbedaan antara GR dan AP , maka akan timbul jurnal HPP di AP invoice
 
@@ -75,7 +78,7 @@ D-->|N| F([dibebankan ke barang yang ada])
 F--> H[[ Update ke JDT1 ]]
 E -->H[[ Update ke JDT1 ]] 
 F--> G[[ Update ke OINM ]]
-F--> I[[ Update ke OITW - itemcost ]]
+F--> I[[ Update ke OITW - Item Cost ]]
 
 
 ```
@@ -83,8 +86,8 @@ F--> I[[ Update ke OITW - itemcost ]]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk2MzI4OTQsLTU5MTU3OTI4MywtMT
-U4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkx
-MjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLT
-EwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
+eyJoaXN0b3J5IjpbODE4OTgzOTAxLC01OTE1NzkyODMsLTE1OD
+U2NDI0NDUsNDc0OTk0NjY0LC0yNTc3NzA5NDgsMTIxNzg5MTIz
+LDIwOTM2Njk4MTksLTcyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMD
+g1MTUxNjMxLC0xNjkyMDg1NTMzXX0=
 -->
