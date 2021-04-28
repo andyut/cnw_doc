@@ -126,17 +126,19 @@ select          'Landed Cost (HPP)',isnull(@v_landedHPP,0) Landedhpp
 Total Landed A  = Total Landed di Inventory + Total Landed Di GL komponen HPP ( transtype=Landedcost)  
 Total Landed B = GL komponen 2140 yang dari jurnal Entry (30)
 
-*Total Landed A = Total Landed B* = *Total Landed Co
+*Total Landed A = Total Landed B* = *Total Landed Cost*
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTQ5NDM0Niw4MjIyMDY4NDQsLTIxND
-A4MDUyNDgsOTM5ODAxMTQsLTMxODczMDM0LDE5NzEwNjIyMjgs
-LTMxODczMDM0LDE3NzQxMDg3OTcsLTEwMjkxODkyOTksLTU5MT
-U3OTI4MywtMTU4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0
-OCwxMjE3ODkxMjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MD
-U5NDA3ODgsLTEwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
+eyJoaXN0b3J5IjpbMTc1NzE1MjQxLDgyMjIwNjg0NCwtMjE0MD
+gwNTI0OCw5Mzk4MDExNCwtMzE4NzMwMzQsMTk3MTA2MjIyOCwt
+MzE4NzMwMzQsMTc3NDEwODc5NywtMTAyOTE4OTI5OSwtNTkxNT
+c5MjgzLC0xNTg1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4
+LDEyMTc4OTEyMywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNT
+k0MDc4OCwtMTA4NTE1MTYzMSwtMTY5MjA4NTUzM119
 -->
