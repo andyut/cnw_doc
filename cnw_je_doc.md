@@ -74,9 +74,9 @@ Mapping dengan SAP Business One
 
 ### Field 
 **(26) Name** : Nomor Internal Jurnal Entry CNW
-**(8) Company** : Company yang aktif
-**(8) Doc Date** : Tanggal dokumen
-**(8) Type** : Jenis Jurnal Entry
+**Company** : Company yang aktif
+**Doc Date** : Tanggal dokumen
+**(2) Type** : Jenis Jurnal Entry
 	Daftar Jenis Tipe Jurnal Entry :
 * JL : Jurnal Lain
 * JV : Jurnal Penyesuaian
@@ -106,9 +106,9 @@ Penomoran SAP berdasarkan pilihan Type ini
 [jl] = [JL]{year}{month}[999999]
 ```
 
-**(8) Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di ==Thick==  maka remark nya dicetak  
+**(3) Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di ==Thick==  maka remark nya dicetak  
 
-**(8) Is SAP Partner** : Berhubungan dengan SAP business Partner atau tidak
+**(4) Is SAP Partner** : Berhubungan dengan SAP business Partner atau tidak
 
 ```mermaid
 graph TD
@@ -121,10 +121,11 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 ```
 Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Yes**, karena kode BP tersebut akan masuk ke dalam ***CardCode*** Didalam Table Jurnal entry (  *JDT1* )
 
-**(8) Partner SAP** : Dropdown untuk memilih SAP Partner, jika tipe Account menggunakan **Control Account**  maka akan masuk ke dalam CardCode di JDT1 , dan Business Card ID di UDF JDT1.  Jika Tidak menggunakan **Control Account** maka akan ditempel nama customer di field remarks
+**(5) Partner SAP** : Dropdown untuk memilih SAP Partner, jika tipe Account menggunakan **Control Account**  maka akan masuk ke dalam CardCode di JDT1 , dan Business Card ID di UDF JDT1.  Jika Tidak menggunakan **Control Account** maka akan ditempel nama customer di field remarks
 
-**(8) Other Partner** : Partner diluar SAP business One Partner.  
-**(8) Tunai/Cheque No** : Kolum untuk memasukan Nomor Cheque .  
+**(5) Other Partner** : Partner diluar SAP business One Partner.  
+**(6) Tunai/Cheque No** : Kolum untuk memasukan Nomor Cheque .  
+**(7) Remark 1** : Kolom keterangan ==(Wajib Diisi)==.  
 **(8) Remark 1** : Kolom keterangan ==(Wajib Diisi)==.  
 **(8) Remark 2** : Kolom keterangan tambahan (baris 2).  
 **(8) Remark 3** : Kolom keterangan tambahan (baris 3) .  
@@ -141,10 +142,10 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDQ1NTM3MCwtMTU0OTM5MTIyMSwtMT
-c4MzM4NjI3NSwtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwtNjg4
-MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MT
-Q1OSwxODU4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3
-MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OT
-AxMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEzNjgwMzE3MzAsLTE1NDkzOTEyMjEsLT
+E3ODMzODYyNzUsLTIwNDgyMzMxNDEsLTE0ODI4NTAwMDgsLTY4
+ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNz
+E0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3
+NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2OD
+kwMTEsLTIwODg3NDY2MTJdfQ==
 -->
