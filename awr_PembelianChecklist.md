@@ -101,6 +101,10 @@ from    OINM A WHERE   CONVERT( VARCHAR, A.DOCDATE ,112) >= (@datefrom)  and   C
 select @v_retur =0
   select @v_IOther  = sum( a.transvalue ) 
 from    OINM A WHERE   CONVERT( VARCHAR, A.DOCDATE ,112) >= (@datefrom)  and   CONVERT( VARCHAR, A.DOCDATE ,112) <= (@dateto)   AND  transtype in (-2,59,58)
+select @v_landedHPP  =isnull(sum (debit-credit),0) 
+ From jdt1 where left(account,1)='5' 
+and  CONVERT( VARCHAR, refdate ,112) >= (@datefrom)  and   CONVERT( VARCHAR,refdate ,112) <= (@dateto) 
+and transtype=69
 
 select          'Pembelian',isnull(@v_Pembelian,0) Pembelian 
 union all
@@ -109,7 +113,7 @@ union all
 select          'Landed Cost (HPP)',isnull(@v_landedHPP,0) Landedhpp  
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTA2NDczNCwxNzc0MTA4Nzk3LC0xMD
+eyJoaXN0b3J5IjpbLTgyNjgzMzU1NiwxNzc0MTA4Nzk3LC0xMD
 I5MTg5Mjk5LC01OTE1NzkyODMsLTE1ODU2NDI0NDUsNDc0OTk0
 NjY0LC0yNTc3NzA5NDgsMTIxNzg5MTIzLDIwOTM2Njk4MTksLT
 cyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMDg1MTUxNjMxLC0xNjky
