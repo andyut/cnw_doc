@@ -17,7 +17,12 @@ Di SAP Business One Pembelian terdiri dari 8 komponen
 | 30 | Jurnal Entry|JDT1|
 | 69 | Landed Cost|IPR|
 
-Semua komponen diatas bermuara di 2 table utama SAP, 
+Semua komponen diatas bermuara di 2 table utama SAP, yaitu OINM ( Inventory Audit Report) , dan JDT1 ( Jurnal Entry)
+
+```mermaid
+graph TD
+
+```
 
 ## Laporan Pembelian 
 
@@ -29,6 +34,6 @@ Dapat Dicek dari 3 bagian modul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU3MTU1MTAsLTEwODUxNTE2MzEsLT
+eyJoaXN0b3J5IjpbLTE5MDgzMTcwNDcsLTEwODUxNTE2MzEsLT
 E2OTIwODU1MzNdfQ==
 -->
