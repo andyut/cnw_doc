@@ -30,7 +30,7 @@ A[OPDN] ---->|transid| y[JDT1]
 B[OPCH] ---->|transid| y[JDT1]
 C[IPF] ---->|transid| y[JDT1]
 D[ORPC] ---->|transid| y[JDT1]
-E[ORPD] --->|transid| y[JDT1]
+E[ORPD] ---->|transid| y[JDT1]
 
 ```
 
@@ -44,6 +44,6 @@ Dapat Dicek dari 3 bagian modul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTcwNDk1NjAsLTcyMTIxNTYxMSwtND
-A1OTQwNzg4LC0xMDg1MTUxNjMxLC0xNjkyMDg1NTMzXX0=
+eyJoaXN0b3J5IjpbMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MD
+U5NDA3ODgsLTEwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
 -->
