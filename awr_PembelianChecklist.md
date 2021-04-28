@@ -121,15 +121,19 @@ union all
 select          'Landed Cost (HPP)',isnull(@v_landedHPP,0) Landedhpp  
 ```
 
+**Cek Nilai Landed Cost**
+
 Total Landed A  = Total Landed di Inventory + Total Landed Di GL komponen HPP ( transtype=Landedcost)  
-Total Landed B = GI
+Total Landed B = GL komponen 2140 yang dari jurnal Entry (30)
+
+*Total Landed A = Total Landed B* = *Total Landed Co
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjM1MzYyNiw4MjIyMDY4NDQsLTIxND
+eyJoaXN0b3J5IjpbMTgzNTQ5NDM0Niw4MjIyMDY4NDQsLTIxND
 A4MDUyNDgsOTM5ODAxMTQsLTMxODczMDM0LDE5NzEwNjIyMjgs
 LTMxODczMDM0LDE3NzQxMDg3OTcsLTEwMjkxODkyOTksLTU5MT
 U3OTI4MywtMTU4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0
