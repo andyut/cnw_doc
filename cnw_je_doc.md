@@ -125,10 +125,14 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 **(5) Other Partner** : Partner diluar SAP business One Partner.  
 **(6) Tunai/Cheque No** : Kolum untuk memasukan Nomor Cheque .  
-**(7) Remark 1** : Kolom keterangan ==(Wajib Diisi)==.  
-**(8) Remark 1** : Kolom keterangan ==(Wajib Diisi)==.  
-**(8) Remark 2** : Kolom keterangan tambahan (baris 2).  
-**(8) Remark 3** : Kolom keterangan tambahan (baris 3) .  
+**(7) Invoice Ref / Notes** : Nomor Invoice Referensi
+**(1) Remark 1** : Kolom keterangan ==(Wajib Diisi)==.  
+**(1) Remark 2** : Kolom keterangan tambahan (baris 2).  
+**(1) Remark 3** : Kolom keterangan tambahan (baris 3) .  
+**(8) Remark 4** : Kolom keterangan Dalam bentuk HTML .  
+**(11) transID** :  Nomor ID JE SAP Business One  
+**(8) Remark 4** : Kolom keterangan Dalam bentuk HTML .  
+**(8) Remark 4** : Kolom keterangan Dalam bentuk HTML .  
 **(8) Remark 4** : Kolom keterangan Dalam bentuk HTML .  
 
 
@@ -141,11 +145,12 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgwMzE3MzAsLTE1NDkzOTEyMjEsLT
-E3ODMzODYyNzUsLTIwNDgyMzMxNDEsLTE0ODI4NTAwMDgsLTY4
-ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNz
-E0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3
-NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2OD
-kwMTEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTUxMzQ2MDk4OCwtMTU0OTM5MTIyMSwtMT
+c4MzM4NjI3NSwtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwtNjg4
+MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MT
+Q1OSwxODU4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3
+MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OT
+AxMSwtMjA4ODc0NjYxMl19
 -->
