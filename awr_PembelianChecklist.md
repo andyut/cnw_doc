@@ -57,9 +57,10 @@ Catatan :
 Laporan *Purchase Analysis* SAP Business total tidak termasuk **Freight**, dan **Landed Cost**  
 
 Laporan *Purchase Analysis* dan *Purchase Analysis Item* bisa berbeda karena beberapa hal
-* Adanya Ap
+* *Adanya AP Services*
+* *Adanya AP Credit Memo Services*
 
-Laporan Pembelian SAP berdasarkan AP invoice Dan good Receipt PO. Jika terjadi perbedaan antara GR dan AP , maka akan timbul jurnal HPP di AP invoice
+Laporan Pembelian SAP berdasarkan AP invoice Dan good Receipt PO. Jika terjadi perbedaan antara GR dan AP , maka akan timbul **jurnal HPP** di AP invoice
 
 ```mermaid
 graph TD
@@ -86,8 +87,8 @@ F--> I[[ Update ke OITW - Item Cost ]]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4OTgzOTAxLC01OTE1NzkyODMsLTE1OD
-U2NDI0NDUsNDc0OTk0NjY0LC0yNTc3NzA5NDgsMTIxNzg5MTIz
-LDIwOTM2Njk4MTksLTcyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMD
-g1MTUxNjMxLC0xNjkyMDg1NTMzXX0=
+eyJoaXN0b3J5IjpbLTE5OTAzNzY2ODUsLTU5MTU3OTI4MywtMT
+U4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkx
+MjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLT
+EwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
 -->
