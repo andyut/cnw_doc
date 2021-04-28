@@ -58,9 +58,16 @@ Laporan *Purchase Analysis* SAP Business total tidak termasuk **Freight**, dan *
 
 Laporan Pembelian SAP berdasarkan AP invoice Dan good Receipt PO. Jika terjadi perbedaan antara GR dan AP , maka akan timbul jurnal HPP di AP invoice
 
+```mermaid
+graph TD
+A(Good Receipt PO) --> A1(AP InvoiB{Perbedaan Qty? over missing}
+
+
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTcyODUyNywtNTkxNTc5MjgzLC0xNT
+eyJoaXN0b3J5IjpbMTQ5NzkxNTg2MSwtNTkxNTc5MjgzLC0xNT
 g1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEy
 MywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMT
 A4NTE1MTYzMSwtMTY5MjA4NTUzM119
