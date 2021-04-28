@@ -19,11 +19,12 @@ Di SAP Business One Pembelian terdiri dari 8 komponen
 Semua komponen diatas bermuara di 2 table utama SAP, yaitu OINM ( Inventory Audit Report) , dan JDT1 ( Jurnal Entry)
 
 ```mermaid
-graph LR
-A[OPDN] -->|createdby,transtype| x[OINM]
-B[OPCH] -->|createdby,transtype| x[OINM]
-C[IPF] -->|createdby,transtype| x[OINM]
-D[ORPC] -->|createdby,transtype| x[OINM]
+graph BT
+A[OPDN] -->|createdby| x[OINM]
+B[OPCH] -->|createdby| x[OINM]
+C[IPF] -->|createdby| x[OINM]
+D[ORPC] -->|createdby| x[OINM]
+E[ORPD] -->|createdby| x[OINM]
 
 A[OPDN] -->|transid| y[JDT1]
 B[OPCH] -->|transid| y[JDT1]
@@ -31,9 +32,6 @@ C[IPF] -->|transid| y[JDT1]
 D[ORPC] -->|transid| y[JDT1]
 E[ORPD] -->|transid| y[JDT1]
 
-
-
-E[ORPD] -->|createdby,transtype| x[OINM]
 ```
 
 ## Laporan Pembelian 
@@ -46,6 +44,6 @@ Dapat Dicek dari 3 bagian modul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMD
-g1MTUxNjMxLC0xNjkyMDg1NTMzXX0=
+eyJoaXN0b3J5IjpbMTIwMTUzNzMxNSwtNzIxMjE1NjExLC00MD
+U5NDA3ODgsLTEwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
 -->
