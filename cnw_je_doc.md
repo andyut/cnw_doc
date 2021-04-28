@@ -41,15 +41,14 @@ Semua modul tambahan yang berkaitan dengan *biaya*, akan integrated ke ***CNW-JE
 ```mermaid
 graph BT
 A(*CNW-Expense) --> B(CNW-JE)
-A1(CNW-Entertain) --> B(CNW-JE)
-A2(CNW-Voucher) --> B(CNW-JE)
-A3(CNW-Shipment) --> B(CNW-JE)
-A4(CNW-DebitNote) --> B(CNW-JE)
-A5(CNW-SKI) --> B(CNW-JE)
-A6(CNW-Surveyor) --> B(CNW-JE)
-
-
+A1(*CNW-Entertain) --> B(CNW-JE)
+A2(*CNW-Voucher) --> B(CNW-JE)
+A3(*CNW-Shipment) --> B(CNW-JE)
+A4(*CNW-DebitNote) --> B(CNW-JE)
+A5(*CNW-SKI) --> B(CNW-JE)
+A6(*CNW-Surveyor) --> B(CNW-JE)
 ```
+	-Integrasi masih dalam pengembangan- 
 ---  
 ## List Voucher -> Voucher
 
@@ -122,9 +121,9 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Njc5NjkxNywtMjA0ODIzMzE0MSwtMT
-Q4Mjg1MDAwOCwtNjg4MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgz
-ODc2NiwtMTE2MDA3MTQ1OSwxODU4MDQzMTgsMzAzMTgzMTEsLT
-QxMjIyMTY2MSwxMDc3MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1
-MDk0ODgyLDQzMDY4OTAxMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3ODMzODYyNzUsLTIwNDgyMzMxNDEsLT
+E0ODI4NTAwMDgsLTY4ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4
+Mzg3NjYsLTExNjAwNzE0NTksMTg1ODA0MzE4LDMwMzE4MzExLC
+00MTIyMjE2NjEsMTA3NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1
+NTA5NDg4Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ==
 -->
