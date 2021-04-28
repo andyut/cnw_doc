@@ -64,13 +64,16 @@ A(Good Receipt PO) --> A1(AP Invoice)
 A1 --> B{Perbedaan Qty? over missing}
 B -->|Y| C(Rubah nilai sesuai invoice Supplier)
 C --> D{Stock Habis}
-D-->|Y| E([
+D-->|Y| E([selisih dibuang ke HPP Price Difference])
+D-->|N| F([dibebankan ke barang yang ada])
+F--> 
+
 
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzI5ODc2OCwtNTkxNTc5MjgzLC0xNT
+eyJoaXN0b3J5IjpbMTA4MzQ3MDE0MywtNTkxNTc5MjgzLC0xNT
 g1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEy
 MywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMT
 A4NTE1MTYzMSwtMTY5MjA4NTUzM119
