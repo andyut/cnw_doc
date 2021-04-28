@@ -37,7 +37,7 @@ D(Account Setting) --> D5(SAP Business Partner)
 
 ```
 ### Modul Integrated
-
+Semua modul tambahan yang berkaitan dengan biaya, akan integrated ke C
 ```mermaid
 graph BT
 A(CNW-Expense) --> B(CNW-JE)
@@ -45,7 +45,8 @@ A1(CNW-Entertain) --> B(CNW-JE)
 A2(CNW-Voucher) --> B(CNW-JE)
 A3(CNW-Shipment) --> B(CNW-JE)
 A4(CNW-DebitNote) --> B(CNW-JE)
-A5(CNWSKI) --> B(CNW-JE)
+A5(CNW-SKI) --> B(CNW-JE)
+A6(CNW-Surveyor) --> B(CNW-JE)
 
 
 ```
@@ -121,9 +122,9 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ1NDc4NzUsLTE0ODI4NTAwMDgsLT
-Y4ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAw
-NzE0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMT
-A3NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2
-ODkwMTEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjczMzY4NzksLTE0ODI4NTAwMDgsLTY4OD
+I1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNzE0
+NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3Nz
+E4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2ODkw
+MTEsLTIwODg3NDY2MTJdfQ==
 -->
