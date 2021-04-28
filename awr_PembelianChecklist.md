@@ -99,8 +99,15 @@ Pembelian dari Inventory Audit Report
 select @v_Pembelian = sum( a.transvalue) 
 from    OINM A WHERE   CONVERT( VARCHAR, A.DOCDATE ,112) >= (@datefrom)  and   CONVERT( VARCHAR, A.DOCDATE ,112) <= (@dateto)   AND transtype in (20,19,21,18)
 
+/*
+Landed Cost dari Inventory Audit Report
+*/                
 select @v_landed= isnull(sum( a.transvalue) ,0)
 from    OINM A WHERE   CONVERT( VARCHAR, A.DOCDATE ,112) >= (@datefrom)  and   CONVERT( VARCHAR, A.DOCDATE ,112) <= (@dateto)   AND transtype in (69)
+
+/*
+Landed Cost dari Jurnal , yang khusus account 5 ( HPP )
+*/                
  
 select @v_landedHPP  =isnull(sum (debit-credit),0) 
  From jdt1 where left(account,1)='5' 
@@ -114,9 +121,9 @@ union all
 select          'Landed Cost (HPP)',isnull(@v_landedHPP,0) Landedhpp  
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzNzg5OTU1LDE3NzQxMDg3OTcsLTEwMj
-kxODkyOTksLTU5MTU3OTI4MywtMTU4NTY0MjQ0NSw0NzQ5OTQ2
-NjQsLTI1Nzc3MDk0OCwxMjE3ODkxMjMsMjA5MzY2OTgxOSwtNz
-IxMjE1NjExLC00MDU5NDA3ODgsLTEwODUxNTE2MzEsLTE2OTIw
-ODU1MzNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjczNjI3MjksMTc3NDEwODc5NywtMT
+AyOTE4OTI5OSwtNTkxNTc5MjgzLC0xNTg1NjQyNDQ1LDQ3NDk5
+NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEyMywyMDkzNjY5ODE5LC
+03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMTA4NTE1MTYzMSwtMTY5
+MjA4NTUzM119
 -->
