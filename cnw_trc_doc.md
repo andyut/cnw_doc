@@ -27,14 +27,15 @@ Modul TRC merupakan tracking dan prepare dokumen untuk menyiapkan barang di guda
 graph TD
 A(Sales Order) --> A1([Sales Order Confirmed])
 A1 -->A2{Posting To SAP Success?}
-A2 -->|N| A3([Cek Blocking / Credit Limit, etc])
-A2 -->|Y| A4([Cek Blocking / Credit Limit, etc])
+A2 --->|N| A3([Cek Blocking / Credit Limit, etc])
+A3 -->|Fixed Blocking Process| A1
+A2 -->|Y| A4([Print SO / OPF])
 
 
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDczNzY0NzIsMTYyNDkyODcxMSwtMT
+eyJoaXN0b3J5IjpbLTE3OTAwNTEwMTcsMTYyNDkyODcxMSwtMT
 U4OTM1MzU3Myw5NzEyNzg2NzFdfQ==
 -->
