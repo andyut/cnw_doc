@@ -38,7 +38,7 @@ E[ORPD] -..->|transid| y[JDT1]
 
 Dapat Dicek dari 4 bagian modul
 * **1. Purchase Analysis SAP**
-* **2. Inventory Audit Report**
+* **2. Inventory Audit Report Query**
 * **3. General Ledger**
 * **4. Laporan HPP Global**
 
@@ -85,12 +85,12 @@ F--> I[[ Update ke OITW - Item Cost ]]
 ```
 
 
-**2. Inventory Audit Report**
+**2. Inventory Audit Report Query**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjkxODkyOTksLTU5MTU3OTI4MywtMT
-U4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkx
-MjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLT
-EwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
+eyJoaXN0b3J5IjpbMTc3NDEwODc5NywtMTAyOTE4OTI5OSwtNT
+kxNTc5MjgzLC0xNTg1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3Nzcw
+OTQ4LDEyMTc4OTEyMywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLT
+QwNTk0MDc4OCwtMTA4NTE1MTYzMSwtMTY5MjA4NTUzM119
 -->
