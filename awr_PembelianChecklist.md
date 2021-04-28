@@ -5,11 +5,6 @@
 ## Gambaran Umum
 
 Di SAP Business One Pembelian terdiri dari 5 komponen
-* Purchase Order
-* Good Receipt PO
-* Landed Cost
-* AP Invoice
-* AP Credit Memo
 
 |SAP Transtype Code | Name |
 | ------ | ------|
@@ -23,8 +18,10 @@ Di SAP Business One Pembelian terdiri dari 5 komponen
 | 69 | Landed Cost|
 
 
+## Laporan Pembelian 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNjMxMjY1LC0xMDg1MTUxNjMxLC0xNj
+eyJoaXN0b3J5IjpbMTExMDk0NDc1LC0xMDg1MTUxNjMxLC0xNj
 kyMDg1NTMzXX0=
 -->
