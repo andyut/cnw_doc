@@ -123,18 +123,11 @@ select          'Landed Cost (HPP)',isnull(@v_landedHPP,0) Landedhpp
 
 Total Landed = Total Landed di Inventory + Total Landed Di GL komponen HPP ( transtype=Landedcost)
 
-$x_{1} 
-
-$x_{1} + x_{2} + \cdots + x_{n}$`
-
-
-
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTA2MjIyOCwtMzE4NzMwMzQsMTc3ND
-EwODc5NywtMTAyOTE4OTI5OSwtNTkxNTc5MjgzLC0xNTg1NjQy
-NDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEyMywyMD
-kzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMTA4NTE1
-MTYzMSwtMTY5MjA4NTUzM119
+eyJoaXN0b3J5IjpbLTMxODczMDM0LDE5NzEwNjIyMjgsLTMxOD
+czMDM0LDE3NzQxMDg3OTcsLTEwMjkxODkyOTksLTU5MTU3OTI4
+MywtMTU4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0OCwxMj
+E3ODkxMjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3
+ODgsLTEwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
 -->
