@@ -13,10 +13,11 @@ Di SAP Business One Pembelian terdiri dari 8 komponen
 | 204 | AP Down Payment|OPOR|
 | 18 | AP Invoice|OPCH|
 | 19 | AP Credit Memo|OPOR|
-| 21 | Good Return|OPOR|
+| 21 | Good Return|ORPD|
 | 30 | Jurnal Entry|JDT1|
 | 69 | Landed Cost|IPR|
 
+Semua komponen diatas bermuara di 2 table utama SAP, 
 
 ## Laporan Pembelian 
 
@@ -24,8 +25,10 @@ Dapat Dicek dari 3 bagian modul
 * **1. Purchase Analysis**
 * **2. Inventory Audit Report**
 * **3. General Ledger**
+* **4. Laporan HPP Global**
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDQ2ODksLTEwODUxNTE2MzEsLTE2OT
-IwODU1MzNdfQ==
+eyJoaXN0b3J5IjpbLTExOTU3MTU1MTAsLTEwODUxNTE2MzEsLT
+E2OTIwODU1MzNdfQ==
 -->
