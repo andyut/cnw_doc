@@ -39,7 +39,9 @@ D(Account Setting) --> D5(SAP Business Partner)
 ### Modul Integrated
 
 ```mermaid
-A(CNW-
+graph BT
+A(CNW-Expense) --> B(CNW-JE)
+
 ```
 ---  
 ## List Voucher -> Voucher
@@ -113,9 +115,9 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMyMDE3NjYsLTE0ODI4NTAwMDgsLT
-Y4ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAw
-NzE0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMT
-A3NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2
-ODkwMTEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTcyMTY1MzM0MCwtMTQ4Mjg1MDAwOCwtNj
+g4MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3
+MTQ1OSwxODU4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMD
+c3MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4
+OTAxMSwtMjA4ODc0NjYxMl19
 -->
