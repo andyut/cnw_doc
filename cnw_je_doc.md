@@ -141,7 +141,13 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 **(18) Printed in Detail** :  Baris ini dicetak saat print perincian detail jurnal Entry
 **(19) Debit** : Nilai debet   
 **(20) Credit** : Nilai credit   
-**(21) Department, (22) Divisi , (23) Expense Type** : Department
+**(21) Departmen, (22) Divisi , (23) Expense Type** : Departmen, Divisi dan Expense Type dari SAP   
+
+```mermaid
+graph TD
+A[Department] --> B{Tidak ada}
+B
+```
 **(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
 
 
@@ -158,11 +164,11 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTMwMTM3NiwtMTAzOTkwOTMzMiwxOD
-EwMDA3ODQzLDIwNjcxMjkzOTYsMTUwMTU4MTk0MywxNDEwNDg1
-MDczLDIxMTQ1MDM1MTAsLTE1NDkzOTEyMjEsLTE3ODMzODYyNz
-UsLTIwNDgyMzMxNDEsLTE0ODI4NTAwMDgsLTY4ODI1MTIxMiwt
-ODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNzE0NTksMTg1OD
-A0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3NzE4MDQyMCwt
-MTcwMzk5NTg5N119
+eyJoaXN0b3J5IjpbMTM4NzgzNjA0LC0xMDM5OTA5MzMyLDE4MT
+AwMDc4NDMsMjA2NzEyOTM5NiwxNTAxNTgxOTQzLDE0MTA0ODUw
+NzMsMjExNDUwMzUxMCwtMTU0OTM5MTIyMSwtMTc4MzM4NjI3NS
+wtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwtNjg4MjUxMjEyLC04
+OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MTQ1OSwxODU4MD
+QzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MTgwNDIwLC0x
+NzAzOTk1ODk3XX0=
 -->
