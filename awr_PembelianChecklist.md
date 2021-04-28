@@ -52,9 +52,14 @@ Menu --> Purchase Analysis
 
 ![Purchase Analysis](https://www.dropbox.com/s/hpcspadwpnxcavv/PURCHASE%20DATA.png?dl=1)
 
+
+Catatan :
+Laporan *Purchase Analysis* SAP Business total tidak termasuk **Freight**, dan **Landed Cost**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI1MzkwNjcsLTE1ODU2NDI0NDUsND
-c0OTk0NjY0LC0yNTc3NzA5NDgsMTIxNzg5MTIzLDIwOTM2Njk4
-MTksLTcyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMDg1MTUxNjMxLC
-0xNjkyMDg1NTMzXX0=
+eyJoaXN0b3J5IjpbLTU5MTU3OTI4MywtMTU4NTY0MjQ0NSw0Nz
+Q5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkxMjMsMjA5MzY2OTgx
+OSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLTEwODUxNTE2MzEsLT
+E2OTIwODU1MzNdfQ==
 -->
