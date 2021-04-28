@@ -146,7 +146,10 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 ```mermaid
 graph TD
 A[Department] --> B{Tidak ada}
-B
+B -->|Y| C(Reload dari SAP)
+
+D[Divisi] --> B1{Tidak ada}
+B1 -->|Y| C(Reload dari SAP)
 ```
 **(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
 
@@ -164,11 +167,11 @@ B
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzgzNjA0LC0xMDM5OTA5MzMyLDE4MT
-AwMDc4NDMsMjA2NzEyOTM5NiwxNTAxNTgxOTQzLDE0MTA0ODUw
-NzMsMjExNDUwMzUxMCwtMTU0OTM5MTIyMSwtMTc4MzM4NjI3NS
-wtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwtNjg4MjUxMjEyLC04
-OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MTQ1OSwxODU4MD
-QzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MTgwNDIwLC0x
-NzAzOTk1ODk3XX0=
+eyJoaXN0b3J5IjpbMTY2NzEyMTI0MywtMTAzOTkwOTMzMiwxOD
+EwMDA3ODQzLDIwNjcxMjkzOTYsMTUwMTU4MTk0MywxNDEwNDg1
+MDczLDIxMTQ1MDM1MTAsLTE1NDkzOTEyMjEsLTE3ODMzODYyNz
+UsLTIwNDgyMzMxNDEsLTE0ODI4NTAwMDgsLTY4ODI1MTIxMiwt
+ODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNzE0NTksMTg1OD
+A0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3NzE4MDQyMCwt
+MTcwMzk5NTg5N119
 -->
