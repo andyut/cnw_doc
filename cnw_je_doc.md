@@ -119,13 +119,16 @@ B -->|Yes| D(Pilih list Partner dari drownDown menu)
 D -->E{Tidak ada Di List}
 E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 ```
-Catatan : Untuk COA Tipe **Control Account** ,  C
+Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Yes**, karena kode BP tersebut akan masuk ke dalam ***CardCode*** Didalam Table Jurnal entry (  *JDT1* )
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY4MzI3MjQsLTE1NDkzOTEyMjEsLT
-E3ODMzODYyNzUsLTIwNDgyMzMxNDEsLTE0ODI4NTAwMDgsLTY4
-ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNz
-E0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3
-NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2OD
-kwMTEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNTUwODk4NTgzLC0xNTQ5MzkxMjIxLC0xNz
+gzMzg2Mjc1LC0yMDQ4MjMzMTQxLC0xNDgyODUwMDA4LC02ODgy
+NTEyMTIsLTg5NTY0NzI3MiwxMTAwODM4NzY2LC0xMTYwMDcxND
+U5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYxLDEwNzcx
+ODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5MD
+ExLC0yMDg4NzQ2NjEyXX0=
 -->
