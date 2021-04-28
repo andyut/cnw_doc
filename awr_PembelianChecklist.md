@@ -14,7 +14,7 @@ Di SAP Business One Pembelian terdiri dari 5 komponen
 |SAP Transtype Code | Name |
 | ------ | ------|
 | 22 | Purchase Order|
-| 22 | Purchase Order|
+| 20 | Good Receipt PO|
 | 22 | Purchase Order|
 | 22 | Purchase Order|
 | 22 | Purchase Order|
@@ -22,6 +22,6 @@ Di SAP Business One Pembelian terdiri dari 5 komponen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ
-==
+eyJoaXN0b3J5IjpbLTE1ODk4NzQ0OTQsLTEwODUxNTE2MzEsLT
+E2OTIwODU1MzNdfQ==
 -->
