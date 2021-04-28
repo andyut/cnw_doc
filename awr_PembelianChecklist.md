@@ -45,10 +45,10 @@ Dapat Dicek dari 4 bagian modul
 
 **Purchase Analysis**
 
-Menu --> 
+Menu --> Pur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Nzc3MDk0OCwxMjE3ODkxMjMsMjA5Mz
-Y2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLTEwODUxNTE2
-MzEsLTE2OTIwODU1MzNdfQ==
+eyJoaXN0b3J5IjpbMTAwMDI5NjYxNSwtMjU3NzcwOTQ4LDEyMT
+c4OTEyMywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4
+OCwtMTA4NTE1MTYzMSwtMTY5MjA4NTUzM119
 -->
