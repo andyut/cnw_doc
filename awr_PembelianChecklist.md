@@ -11,10 +11,17 @@ Di SAP Business One Pembelian terdiri dari 5 komponen
 * AP Invoice
 * AP Credit Memo
 
-|Code | Name |
+|SAP Transtype Code | Name |
 | ------ | ------|
-| 01 | Purchase Order|
+| 22 | Purchase Order|
+| 22 | Purchase Order|
+| 22 | Purchase Order|
+| 22 | Purchase Order|
+| 22 | Purchase Order|
+| 22 | Purchase Order|
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODkyMzEwNSwtMTY5MjA4NTUzM119
+eyJoaXN0b3J5IjpbLTEwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ
+==
 -->
