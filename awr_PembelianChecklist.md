@@ -20,8 +20,12 @@ Di SAP Business One Pembelian terdiri dari 5 komponen
 
 ## Laporan Pembelian 
 
+Dapat Dicek dari 3 bagian modul
+* **1. Purchase Analysis**
+* **2. Inventory Audit Report**
+* **3. General Ledger**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDk0NDc1LC0xMDg1MTUxNjMxLC0xNj
-kyMDg1NTMzXX0=
+eyJoaXN0b3J5IjpbLTc2Nzc5ODA0MCwtMTA4NTE1MTYzMSwtMT
+Y5MjA4NTUzM119
 -->
