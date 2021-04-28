@@ -66,15 +66,17 @@ B -->|Y| C(Rubah nilai sesuai invoice Supplier)
 C --> D{Stock Habis}
 D-->|Y| E([selisih dibuang ke HPP Price Difference])
 D-->|N| F([dibebankan ke barang yang ada])
-F--> 
+F--> H[[ Update ke JDT1 ]]
+E --> 
+F--> G[[ Update ke OINM ]]
 
 
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzQ3MDE0MywtNTkxNTc5MjgzLC0xNT
-g1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEy
-MywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMT
-A4NTE1MTYzMSwtMTY5MjA4NTUzM119
+eyJoaXN0b3J5IjpbNjI5MDkwMTYzLC01OTE1NzkyODMsLTE1OD
+U2NDI0NDUsNDc0OTk0NjY0LC0yNTc3NzA5NDgsMTIxNzg5MTIz
+LDIwOTM2Njk4MTksLTcyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMD
+g1MTUxNjMxLC0xNjkyMDg1NTMzXX0=
 -->
