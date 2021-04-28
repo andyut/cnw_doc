@@ -48,10 +48,15 @@ Dapat Dicek dari 4 bagian modul
 Menu --> Purchase Analysis Item
 ![Purchase Analysis](https://www.dropbox.com/s/tznp53s7e1n1p5i/PURCHASE%20DATA%20ITEM.png?dl=1)
 
+Menu --> Purchase Analysis
+![Purchase Analysis] (https://www.dropbox.com/s/hpcspadwpnxcavv/PURCHASE%20DATA.png?dl=1)
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODExNDU1Myw0NzQ5OTQ2NjQsLTI1Nz
-c3MDk0OCwxMjE3ODkxMjMsMjA5MzY2OTgxOSwtNzIxMjE1NjEx
-LC00MDU5NDA3ODgsLTEwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ
-==
+eyJoaXN0b3J5IjpbLTE1ODU2NDI0NDUsNDc0OTk0NjY0LC0yNT
+c3NzA5NDgsMTIxNzg5MTIzLDIwOTM2Njk4MTksLTcyMTIxNTYx
+MSwtNDA1OTQwNzg4LC0xMDg1MTUxNjMxLC0xNjkyMDg1NTMzXX
+0=
 -->
