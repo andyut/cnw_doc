@@ -94,6 +94,7 @@ B -->|BK, BD,KK,KD| C[Kasbon Penerimaan / Pengeluaran]
 B -->|JV,JL| D[Jurnal Penyesuaian / Pemindahan]
 
 ```
+
 Penomoran SAP berdasarkan pilihan Type ini 
 
 ```python
@@ -121,9 +122,10 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODMzODYyNzUsLTIwNDgyMzMxNDEsLT
-E0ODI4NTAwMDgsLTY4ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4
-Mzg3NjYsLTExNjAwNzE0NTksMTg1ODA0MzE4LDMwMzE4MzExLC
-00MTIyMjE2NjEsMTA3NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1
-NTA5NDg4Miw0MzA2ODkwMTEsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE1NDkzOTEyMjEsLTE3ODMzODYyNzUsLT
+IwNDgyMzMxNDEsLTE0ODI4NTAwMDgsLTY4ODI1MTIxMiwtODk1
+NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAwNzE0NTksMTg1ODA0Mz
+E4LDMwMzE4MzExLC00MTIyMjE2NjEsMTA3NzE4MDQyMCwtMTcw
+Mzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2ODkwMTEsLTIwODg3ND
+Y2MTJdfQ==
 -->
