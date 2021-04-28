@@ -16,7 +16,10 @@
 
 Modul TRC merupakan tracking dan prepare dokumen untuk menyiapkan barang di gudang. terdiri dari 3 bagian 
 1. Get Data dari SAP Business One
-2. Check List Sales Admin u
+2. Check List Sales Admin untuk dikirim ke gudang
+3. Checklist Gudang untuk penerimaan SO, dan prepare untuk barang
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0OTM3MTg2LDk3MTI3ODY3MV19
+eyJoaXN0b3J5IjpbLTE1ODkzNTM1NzMsOTcxMjc4NjcxXX0=
 -->
