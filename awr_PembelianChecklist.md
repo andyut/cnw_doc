@@ -9,13 +9,13 @@ Di SAP Business One Pembelian terdiri dari 8 komponen
 |SAP Transtype Code | Name |Table Name |
 | ------ | ------| ------|
 | 22 | Purchase Order|OPOR|
-| 20 | Good Receipt PO|OPOR|
+| 20 | Good Receipt PO|OPDN|
 | 204 | AP Down Payment|OPOR|
-| 18 | AP Invoice|OPOR|
+| 18 | AP Invoice|OPCH|
 | 19 | AP Credit Memo|OPOR|
 | 21 | Good Return|OPOR|
-| 30 | Jurnal Entry|OPOR|
-| 69 | Landed Cost|OPOR|
+| 30 | Jurnal Entry|JDT1|
+| 69 | Landed Cost|IPR|
 
 
 ## Laporan Pembelian 
@@ -26,6 +26,6 @@ Dapat Dicek dari 3 bagian modul
 * **3. General Ledger**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTAyNDY0OCwtMTA4NTE1MTYzMSwtMT
-Y5MjA4NTUzM119
+eyJoaXN0b3J5IjpbMTM2NDQ2ODksLTEwODUxNTE2MzEsLTE2OT
+IwODU1MzNdfQ==
 -->
