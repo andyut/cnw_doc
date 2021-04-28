@@ -10,7 +10,6 @@ Di SAP Business One Pembelian terdiri dari 8 komponen
 | ------ | ------| ------|
 | 22 | Purchase Order|OPOR|
 | 20 | Good Receipt PO|OPDN|
-| 204 | AP Down Payment|OPOR|
 | 18 | AP Invoice|OPCH|
 | 19 | AP Credit Memo|OPOR|
 | 21 | Good Return|ORPD|
@@ -34,6 +33,6 @@ Dapat Dicek dari 3 bagian modul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgzMTcwNDcsLTEwODUxNTE2MzEsLT
-E2OTIwODU1MzNdfQ==
+eyJoaXN0b3J5IjpbLTQwNTk0MDc4OCwtMTA4NTE1MTYzMSwtMT
+Y5MjA4NTUzM119
 -->
