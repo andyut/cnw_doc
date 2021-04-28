@@ -56,12 +56,12 @@ Menu --> Purchase Analysis
 Catatan :
 Laporan *Purchase Analysis* SAP Business total tidak termasuk **Freight**, dan **Landed Cost**
 
-
+Laporan Pembelian SAP berdasarkan AP invoice Dan good Receipt PO. Jika terjadi perbedaan antara GR dan AP , maka akan timbul jurnal HPP di AP invoice
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY3MjkwMTUsLTU5MTU3OTI4MywtMT
-U4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0OCwxMjE3ODkx
-MjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLT
-EwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
+eyJoaXN0b3J5IjpbLTU3MTcyODUyNywtNTkxNTc5MjgzLC0xNT
+g1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEy
+MywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMT
+A4NTE1MTYzMSwtMTY5MjA4NTUzM119
 -->
