@@ -41,6 +41,12 @@ D(Account Setting) --> D5(SAP Business Partner)
 ```mermaid
 graph BT
 A(CNW-Expense) --> B(CNW-JE)
+A1(CNW-Entertain) --> B(CNW-JE)
+A2(CNW-Voucher) --> B(CNW-JE)
+A3(CNW-Shipment) --> B(CNW-JE)
+A4(CNW-DebitNote) --> B(CNW-JE)
+A5(CNWSKI) --> B(CNW-JE)
+
 
 ```
 ---  
@@ -115,9 +121,9 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTY1MzM0MCwtMTQ4Mjg1MDAwOCwtNj
-g4MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3
-MTQ1OSwxODU4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMD
-c3MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4
-OTAxMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE4NzQ1NDc4NzUsLTE0ODI4NTAwMDgsLT
+Y4ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mzg3NjYsLTExNjAw
+NzE0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00MTIyMjE2NjEsMT
+A3NzE4MDQyMCwtMTcwMzk5NTg5NywtMTk1NTA5NDg4Miw0MzA2
+ODkwMTEsLTIwODg3NDY2MTJdfQ==
 -->
