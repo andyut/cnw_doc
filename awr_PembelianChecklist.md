@@ -139,11 +139,13 @@ Total Pembelian = GL (1190) Komponen (20,19,21,18,69) + GL (5) Komponen  (20,19,
 **4. HPP Global**
 
 Landed Cost HPP = Landed Cost dari GL (5)  yang tidak bisa dibebankan ke item barang  
-Landed Cost Item= Landed Cost dari GL (5)  yang tidak bisa dibebankan ke item barang
+Landed Cost Item= Landed Cost dari GL (5)  yang  dibebankan ke item barang
 
 Total Pembelian = Total Pembelian + Landed Cost Item + Landed Cost HPP
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTg3NTY3MCw4MjIyMDY4NDQsLTIxND
+eyJoaXN0b3J5IjpbMTU2Mjk1Mjg0Niw4MjIyMDY4NDQsLTIxND
 A4MDUyNDgsOTM5ODAxMTQsLTMxODczMDM0LDE5NzEwNjIyMjgs
 LTMxODczMDM0LDE3NzQxMDg3OTcsLTEwMjkxODkyOTksLTU5MT
 U3OTI4MywtMTU4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0
