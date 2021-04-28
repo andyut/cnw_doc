@@ -23,10 +23,10 @@ Modul TRC merupakan tracking dan prepare dokumen untuk menyiapkan barang di guda
 
 ## Alur Dokumen
 
-
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDkyODcxMSwtMTU4OTM1MzU3Myw5Nz
-EyNzg2NzFdfQ==
+eyJoaXN0b3J5IjpbODYyNDg4MzcsMTYyNDkyODcxMSwtMTU4OT
+M1MzU3Myw5NzEyNzg2NzFdfQ==
 -->
