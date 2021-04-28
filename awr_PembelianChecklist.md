@@ -87,10 +87,31 @@ F--> I[[ Update ke OITW - Item Cost ]]
 
 **2. Inventory Audit Report Query**
 
+```sql
+declare         
+			    @v_Pembelian     float	,
+				@v_StockAkhir	 float	,
+				@v_landed        float	,
+				@v_TotalHPP		 float	,
+                @v_landedHPP     float
+select @v_Pembelian = sum( a.transvalue) 
+from    OINM A WHERE   CONVERT( VARCHAR, A.DOCDATE ,112) >= (@datefrom)  and   CONVERT( VARCHAR, A.DOCDATE ,112) <= (@dateto)   AND transtype in (20,19,21,18)
+select @v_landed= isnull(sum( a.transvalue) ,0)
+from    OINM A WHERE   CONVERT( VARCHAR, A.DOCDATE ,112) >= (@datefrom)  and   CONVERT( VARCHAR, A.DOCDATE ,112) <= (@dateto)   AND transtype in (69)
+select @v_retur =0
+  select @v_IOther  = sum( a.transvalue ) 
+from    OINM A WHERE   CONVERT( VARCHAR, A.DOCDATE ,112) >= (@datefrom)  and   CONVERT( VARCHAR, A.DOCDATE ,112) <= (@dateto)   AND  transtype in (-2,59,58)
 
+select          'Pembelian',isnull(@v_Pembelian,0) Pembelian 
+union all
+select          'Landed Cost',isnull(@v_landed,0) Landed  
+union all
+select          'Landed Cost (HPP)',isnull(@v_landedHPP,0) Landedhpp  
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDEwODc5NywtMTAyOTE4OTI5OSwtNT
-kxNTc5MjgzLC0xNTg1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3Nzcw
-OTQ4LDEyMTc4OTEyMywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLT
-QwNTk0MDc4OCwtMTA4NTE1MTYzMSwtMTY5MjA4NTUzM119
+eyJoaXN0b3J5IjpbLTg1MTA2NDczNCwxNzc0MTA4Nzk3LC0xMD
+I5MTg5Mjk5LC01OTE1NzkyODMsLTE1ODU2NDI0NDUsNDc0OTk0
+NjY0LC0yNTc3NzA5NDgsMTIxNzg5MTIzLDIwOTM2Njk4MTksLT
+cyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMDg1MTUxNjMxLC0xNjky
+MDg1NTMzXX0=
 -->
