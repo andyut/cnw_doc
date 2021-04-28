@@ -110,6 +110,7 @@ Penomoran SAP berdasarkan pilihan Type ini
 **(3) Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di ==Thick==  maka remark nya dicetak  
 
 **(4) Is SAP Partner** : Berhubungan dengan SAP business Partner atau tidak
+
 ```mermaid
 graph TD
 A --> B{Is SAP Partner?}
@@ -168,9 +169,11 @@ Edit_from_SAP --> Approved
 Delete_from_SAP --> Approved
 ```
 
+**(25) Tombol Action** : Tombol Action  
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTI1MDM2OSwtNzM3MzE2MzYzLDE2NT
+eyJoaXN0b3J5IjpbLTUwMzM3MTk2NywtNzM3MzE2MzYzLDE2NT
 Q3MTE4MSwtMTAzOTkwOTMzMiwxODEwMDA3ODQzLDIwNjcxMjkz
 OTYsMTUwMTU4MTk0MywxNDEwNDg1MDczLDIxMTQ1MDM1MTAsLT
 E1NDkzOTEyMjEsLTE3ODMzODYyNzUsLTIwNDgyMzMxNDEsLTE0
