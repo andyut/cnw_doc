@@ -154,7 +154,9 @@ B1 -->|Y| C(Reload dari SAP Business One)
 E[Expense Type] --> B2{Tidak ada}
 B2 -->|Y| C2(Reload dari SAP WEB)
 ```
-**(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
+**(24) Status** : Status dokumen JE ( Draft, Approved, Posted to SAP)
+
+
 
 
 
@@ -170,11 +172,11 @@ B2 -->|Y| C2(Reload dari SAP WEB)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDcxMTgxLC0xMDM5OTA5MzMyLDE4MT
-AwMDc4NDMsMjA2NzEyOTM5NiwxNTAxNTgxOTQzLDE0MTA0ODUw
-NzMsMjExNDUwMzUxMCwtMTU0OTM5MTIyMSwtMTc4MzM4NjI3NS
-wtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwtNjg4MjUxMjEyLC04
-OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MTQ1OSwxODU4MD
-QzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3MTgwNDIwLC0x
-NzAzOTk1ODk3XX0=
+eyJoaXN0b3J5IjpbLTEwNjkzNTgwNDMsMTY1NDcxMTgxLC0xMD
+M5OTA5MzMyLDE4MTAwMDc4NDMsMjA2NzEyOTM5NiwxNTAxNTgx
+OTQzLDE0MTA0ODUwNzMsMjExNDUwMzUxMCwtMTU0OTM5MTIyMS
+wtMTc4MzM4NjI3NSwtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwt
+Njg4MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MD
+A3MTQ1OSwxODU4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwx
+MDc3MTgwNDIwXX0=
 -->
