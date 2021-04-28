@@ -1,9 +1,9 @@
-# CNW JE
+# CNW JE ( Jurnal Entry SAP)
 ## Petunjuk Penggunaan
 
-###### Author : Andy   
-###### Project : CNW Project  
-###### Generated Using : *Markdown*
+
+###### Generated Using : *Markdown Mermaid*
+###### Version : *1.0*
   
 ---
 
@@ -173,11 +173,11 @@ Delete_from_SAP --> Approved
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTUyMjM1MDcsLTUwMzM3MTk2NywtNz
-M3MzE2MzYzLDE2NTQ3MTE4MSwtMTAzOTkwOTMzMiwxODEwMDA3
-ODQzLDIwNjcxMjkzOTYsMTUwMTU4MTk0MywxNDEwNDg1MDczLD
-IxMTQ1MDM1MTAsLTE1NDkzOTEyMjEsLTE3ODMzODYyNzUsLTIw
-NDgyMzMxNDEsLTE0ODI4NTAwMDgsLTY4ODI1MTIxMiwtODk1Nj
-Q3MjcyLDExMDA4Mzg3NjYsLTExNjAwNzE0NTksMTg1ODA0MzE4
-LDMwMzE4MzExXX0=
+eyJoaXN0b3J5IjpbMzM4NTAyMTQ3LC0xNTk1MjIzNTA3LC01MD
+MzNzE5NjcsLTczNzMxNjM2MywxNjU0NzExODEsLTEwMzk5MDkz
+MzIsMTgxMDAwNzg0MywyMDY3MTI5Mzk2LDE1MDE1ODE5NDMsMT
+QxMDQ4NTA3MywyMTE0NTAzNTEwLC0xNTQ5MzkxMjIxLC0xNzgz
+Mzg2Mjc1LC0yMDQ4MjMzMTQxLC0xNDgyODUwMDA4LC02ODgyNT
+EyMTIsLTg5NTY0NzI3MiwxMTAwODM4NzY2LC0xMTYwMDcxNDU5
+LDE4NTgwNDMxOF19
 -->
