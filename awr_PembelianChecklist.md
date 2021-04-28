@@ -62,7 +62,10 @@ Laporan Pembelian SAP berdasarkan AP invoice Dan good Receipt PO. Jika terjadi p
 graph TD
 A(Good Receipt PO) --> A1(AP Invoice)
 A --> A2(Landed Cost) 
-
+A2 -->A3{Stock Ada?}
+A3 -->|Y| A4(Bebankan Ke Stock)
+A3 -->|N| A5(Bebankan Ke HPP Price Difference)
+ 
 A1 --> B{Over missing Qty ?}
 B -->|Y| C(Rubah nilai sesuai invoice Supplier)
 C --> D{Stock Habis}
@@ -78,7 +81,7 @@ F--> G[[ Update ke OINM ]]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDg1MjY2MywtNTkxNTc5MjgzLC0xNT
+eyJoaXN0b3J5IjpbMTc5NTE0MTA0NywtNTkxNTc5MjgzLC0xNT
 g1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEy
 MywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMT
 A4NTE1MTYzMSwtMTY5MjA4NTUzM119
