@@ -37,17 +37,18 @@ E[ORPD] -..->|transid| y[JDT1]
 ## Laporan Pembelian 
 
 Dapat Dicek dari 4 bagian modul
-* **1. Purchase Analysis**
+* **1. Purchase Analysis SAP**
 * **2. Inventory Audit Report**
 * **3. General Ledger**
 * **4. Laporan HPP Global**
 
+
 **Purchase Analysis**
 
-
+Menu --> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc4ODgzODMsMTIxNzg5MTIzLDIwOT
-M2Njk4MTksLTcyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMDg1MTUx
-NjMxLC0xNjkyMDg1NTMzXX0=
+eyJoaXN0b3J5IjpbLTI1Nzc3MDk0OCwxMjE3ODkxMjMsMjA5Mz
+Y2OTgxOSwtNzIxMjE1NjExLC00MDU5NDA3ODgsLTEwODUxNTE2
+MzEsLTE2OTIwODU1MzNdfQ==
 -->
