@@ -77,7 +77,8 @@ Mapping dengan SAP Business One
 **Company** : Company yang aktif
 **Doc Date** : Tanggal dokumen
 **(2) Type** : Jenis Jurnal Entry
-	Daftar Jenis Tipe Jurnal Entry :
+
+Daftar Jenis Tipe Jurnal Entry :
 * JL : Jurnal Lain
 * JV : Jurnal Penyesuaian
 * BK : Bank Kredit
@@ -109,7 +110,6 @@ Penomoran SAP berdasarkan pilihan Type ini
 **(3) Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di ==Thick==  maka remark nya dicetak  
 
 **(4) Is SAP Partner** : Berhubungan dengan SAP business Partner atau tidak
-
 ```mermaid
 graph TD
 A --> B{Is SAP Partner?}
@@ -170,11 +170,11 @@ Delete_from_SAP --> Approved
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzMxNjM2MywxNjU0NzExODEsLTEwMz
-k5MDkzMzIsMTgxMDAwNzg0MywyMDY3MTI5Mzk2LDE1MDE1ODE5
-NDMsMTQxMDQ4NTA3MywyMTE0NTAzNTEwLC0xNTQ5MzkxMjIxLC
-0xNzgzMzg2Mjc1LC0yMDQ4MjMzMTQxLC0xNDgyODUwMDA4LC02
-ODgyNTEyMTIsLTg5NTY0NzI3MiwxMTAwODM4NzY2LC0xMTYwMD
-cxNDU5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYxLDEw
-NzcxODA0MjBdfQ==
+eyJoaXN0b3J5IjpbMTA5MTI1MDM2OSwtNzM3MzE2MzYzLDE2NT
+Q3MTE4MSwtMTAzOTkwOTMzMiwxODEwMDA3ODQzLDIwNjcxMjkz
+OTYsMTUwMTU4MTk0MywxNDEwNDg1MDczLDIxMTQ1MDM1MTAsLT
+E1NDkzOTEyMjEsLTE3ODMzODYyNzUsLTIwNDgyMzMxNDEsLTE0
+ODI4NTAwMDgsLTY4ODI1MTIxMiwtODk1NjQ3MjcyLDExMDA4Mz
+g3NjYsLTExNjAwNzE0NTksMTg1ODA0MzE4LDMwMzE4MzExLC00
+MTIyMjE2NjFdfQ==
 -->
