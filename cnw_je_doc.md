@@ -73,10 +73,10 @@ Mapping dengan SAP Business One
 
 
 ### Field 
-**Name** : Nomor Internal Jurnal Entry CNW
-**Company** : Company yang aktif
-**Doc Date** : Tanggal dokumen
-**Type** : Jenis Jurnal Entry
+**(8) Name** : Nomor Internal Jurnal Entry CNW
+**(8) Company** : Company yang aktif
+**(8) Doc Date** : Tanggal dokumen
+**(8) Type** : Jenis Jurnal Entry
 	Daftar Jenis Tipe Jurnal Entry :
 * JL : Jurnal Lain
 * JV : Jurnal Penyesuaian
@@ -106,9 +106,9 @@ Penomoran SAP berdasarkan pilihan Type ini
 [jl] = [JL]{year}{month}[999999]
 ```
 
-**Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di ==Thick==  maka remark nya dicetak  
+**(8) Is Remark Printed** : Remark di line di print pada voucher di Jurnal Penyesuaian, jika tidak di ==Thick==  maka remark nya dicetak  
 
-**Is SAP Partner** : Berhubungan dengan SAP business Partner atau tidak
+**(8) Is SAP Partner** : Berhubungan dengan SAP business Partner atau tidak
 
 ```mermaid
 graph TD
@@ -121,14 +121,14 @@ E -->|Yes| F(Load / Refresh BP di menu Account-Setting)
 ```
 Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Yes**, karena kode BP tersebut akan masuk ke dalam ***CardCode*** Didalam Table Jurnal entry (  *JDT1* )
 
-**Partner SAP** : Dropdown untuk memilih SAP Partner, jika tipe Account menggunakan **Control Account**  maka akan masuk ke dalam CardCode di JDT1 , dan Business Card ID di UDF JDT1.  Jika Tidak menggunakan **Control Account** maka akan ditempel nama customer di field remarks
+**(8) Partner SAP** : Dropdown untuk memilih SAP Partner, jika tipe Account menggunakan **Control Account**  maka akan masuk ke dalam CardCode di JDT1 , dan Business Card ID di UDF JDT1.  Jika Tidak menggunakan **Control Account** maka akan ditempel nama customer di field remarks
 
-**Other Partner** : Partner diluar SAP business One Partner.  
-**Tunai/Cheque No** : Kolum untuk memasukan Nomor Cheque .  
-**Remark 1** : Kolom keterangan ==(Wajib Diisi)==.  
-**Remark 2** : Kolom keterangan tambahan (baris 2).  
-**Remark 3** : Kolom keterangan tambahan (baris 3) .  
-**Remark 4** : Kolom keterangan Dalam bentuk HTML .  
+**(8) Other Partner** : Partner diluar SAP business One Partner.  
+**(8) Tunai/Cheque No** : Kolum untuk memasukan Nomor Cheque .  
+**(8) Remark 1** : Kolom keterangan ==(Wajib Diisi)==.  
+**(8) Remark 2** : Kolom keterangan tambahan (baris 2).  
+**(8) Remark 3** : Kolom keterangan tambahan (baris 3) .  
+**(8) Remark 4** : Kolom keterangan Dalam bentuk HTML .  
 
 
 
@@ -141,7 +141,7 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NjA0Nzk3LC0xNTQ5MzkxMjIxLC0xNz
+eyJoaXN0b3J5IjpbOTQ3NzE0ODcwLC0xNTQ5MzkxMjIxLC0xNz
 gzMzg2Mjc1LC0yMDQ4MjMzMTQxLC0xNDgyODUwMDA4LC02ODgy
 NTEyMTIsLTg5NTY0NzI3MiwxMTAwODM4NzY2LC0xMTYwMDcxND
 U5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYxLDEwNzcx
