@@ -23,7 +23,7 @@ Modul TRC merupakan tracking dan prepare dokumen untuk menyiapkan barang di guda
 
 ## Alur Dokumen
 
-### 
+### Pembuatan SO /OPF
 ```mermaid
 graph TD
 A[Sales Order] --> A1[Sales Order Confirmed]
@@ -37,6 +37,6 @@ A2 -->|No| A3([Cek Blocking / Credit Limit, etc])
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMjc1Njc3LC0xMjI3MTM1MzMwLDE2Mj
-Q5Mjg3MTEsLTE1ODkzNTM1NzMsOTcxMjc4NjcxXX0=
+eyJoaXN0b3J5IjpbMTg5NDk3MDIyNCwtMTIyNzEzNTMzMCwxNj
+I0OTI4NzExLC0xNTg5MzUzNTczLDk3MTI3ODY3MV19
 -->
