@@ -36,15 +36,18 @@ E[ORPD] -..->|transid| y[JDT1]
 
 ## Laporan Pembelian 
 
-Dapat Dicek dari 3 bagian modul
+Dapat Dicek dari 4 bagian modul
 * **1. Purchase Analysis**
 * **2. Inventory Audit Report**
 * **3. General Ledger**
 * **4. Laporan HPP Global**
 
+**Purchase Analysis**
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzg5MTIzLDIwOTM2Njk4MTksLTcyMT
-IxNTYxMSwtNDA1OTQwNzg4LC0xMDg1MTUxNjMxLC0xNjkyMDg1
-NTMzXX0=
+eyJoaXN0b3J5IjpbLTEyODc4ODgzODMsMTIxNzg5MTIzLDIwOT
+M2Njk4MTksLTcyMTIxNTYxMSwtNDA1OTQwNzg4LC0xMDg1MTUx
+NjMxLC0xNjkyMDg1NTMzXX0=
 -->
