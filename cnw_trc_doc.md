@@ -28,7 +28,7 @@ graph TD
 A[Sales Order] --> A1[Sales Order Confirmed]
 A1 -->A2{Posting Success?}
 
-A3 -->|Fixed Blocking Process| A1
+A3 -->|Fixed| A1
 A2 ---->|Yes| A4([Print SO / OPF])
 A2 -->|No| A3([Cek Blocking / Credit Limit, etc])
 
@@ -37,6 +37,6 @@ A2 -->|No| A3([Cek Blocking / Credit Limit, etc])
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDMwNjkwMCwxNjI0OTI4NzExLC0xNT
-g5MzUzNTczLDk3MTI3ODY3MV19
+eyJoaXN0b3J5IjpbLTEyMjcxMzUzMzAsMTYyNDkyODcxMSwtMT
+U4OTM1MzU3Myw5NzEyNzg2NzFdfQ==
 -->
