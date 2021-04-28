@@ -141,7 +141,7 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 **(18) Printed in Detail** :  Baris ini dicetak saat print perincian detail jurnal Entry
 **(19) Debit** : Nilai debet   
 **(20) Credit** : Nilai credit   
-**(21) Department, (22) Divisi , (23) Expense Type** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
+**(21) Department, (22) Divisi , (23) Expense Type** : Departmen 
 **(14) Debit, Credit, Balance** : Nilai dibaris Jurnal Entry, Balance **harus = 0**  
 
 
@@ -158,11 +158,11 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDAwNzg0MywyMDY3MTI5Mzk2LDE1MD
-E1ODE5NDMsMTQxMDQ4NTA3MywyMTE0NTAzNTEwLC0xNTQ5Mzkx
-MjIxLC0xNzgzMzg2Mjc1LC0yMDQ4MjMzMTQxLC0xNDgyODUwMD
-A4LC02ODgyNTEyMTIsLTg5NTY0NzI3MiwxMTAwODM4NzY2LC0x
-MTYwMDcxNDU5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNj
-YxLDEwNzcxODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIs
-NDMwNjg5MDExXX0=
+eyJoaXN0b3J5IjpbLTEwMzk5MDkzMzIsMTgxMDAwNzg0MywyMD
+Y3MTI5Mzk2LDE1MDE1ODE5NDMsMTQxMDQ4NTA3MywyMTE0NTAz
+NTEwLC0xNTQ5MzkxMjIxLC0xNzgzMzg2Mjc1LC0yMDQ4MjMzMT
+QxLC0xNDgyODUwMDA4LC02ODgyNTEyMTIsLTg5NTY0NzI3Miwx
+MTAwODM4NzY2LC0xMTYwMDcxNDU5LDE4NTgwNDMxOCwzMDMxOD
+MxMSwtNDEyMjIxNjYxLDEwNzcxODA0MjAsLTE3MDM5OTU4OTcs
+LTE5NTUwOTQ4ODJdfQ==
 -->
