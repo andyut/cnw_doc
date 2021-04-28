@@ -1,5 +1,5 @@
 # CNW Faktur
-## DocumentatioPetunjuk Penggunaan
+## Petunjuk Penggunaan
 
 
 
@@ -10,5 +10,5 @@
 
 ## Export to DJP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDk4MTU4Nl19
+eyJoaXN0b3J5IjpbMTI1MjU1NTQzMF19
 -->
