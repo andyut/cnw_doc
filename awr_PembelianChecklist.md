@@ -136,14 +136,17 @@ Total Landed B = GL komponen 2140 yang dari jurnal Entry (30)
 Total Pembelian = GL (1190) Komponen (20,19,21,18,69) + GL (5) Komponen  (20,19,21,18,69) 
 
 
-**3. General Ledger**
+**4. HPP Global**
 
-Total Pembelian = Total Pembelian + Landed Cost 
+Landed Cost HPP = Landed Cost dari GL (5)  yang tidak bisa dibebankan ke item barang  
+Landed Cost Item= Landed Cost dari GL (5)  yang tidak bisa dibebankan ke item barang
+
+Total Pembelian = Total Pembelian + Landed Cost Item + Landed Cost HPP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3NzYwNDI3LDgyMjIwNjg0NCwtMjE0MD
-gwNTI0OCw5Mzk4MDExNCwtMzE4NzMwMzQsMTk3MTA2MjIyOCwt
-MzE4NzMwMzQsMTc3NDEwODc5NywtMTAyOTE4OTI5OSwtNTkxNT
-c5MjgzLC0xNTg1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4
-LDEyMTc4OTEyMywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNT
-k0MDc4OCwtMTA4NTE1MTYzMSwtMTY5MjA4NTUzM119
+eyJoaXN0b3J5IjpbMTI3OTg3NTY3MCw4MjIyMDY4NDQsLTIxND
+A4MDUyNDgsOTM5ODAxMTQsLTMxODczMDM0LDE5NzEwNjIyMjgs
+LTMxODczMDM0LDE3NzQxMDg3OTcsLTEwMjkxODkyOTksLTU5MT
+U3OTI4MywtMTU4NTY0MjQ0NSw0NzQ5OTQ2NjQsLTI1Nzc3MDk0
+OCwxMjE3ODkxMjMsMjA5MzY2OTgxOSwtNzIxMjE1NjExLC00MD
+U5NDA3ODgsLTEwODUxNTE2MzEsLTE2OTIwODU1MzNdfQ==
 -->
