@@ -62,13 +62,15 @@ Laporan Pembelian SAP berdasarkan AP invoice Dan good Receipt PO. Jika terjadi p
 graph TD
 A(Good Receipt PO) --> A1(AP Invoice)
 A1 --> B{Perbedaan Qty? over missing}
-B -->|Y| C(Rubah 
+B -->|Y| C(Rubah nilai sesuai invoice Supplier)
+C --> D{Stock Habis}
+D-->|Y| E([
 
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTIxNTY3NCwtNTkxNTc5MjgzLC0xNT
+eyJoaXN0b3J5IjpbMTk4NzI5ODc2OCwtNTkxNTc5MjgzLC0xNT
 g1NjQyNDQ1LDQ3NDk5NDY2NCwtMjU3NzcwOTQ4LDEyMTc4OTEy
 MywyMDkzNjY5ODE5LC03MjEyMTU2MTEsLTQwNTk0MDc4OCwtMT
 A4NTE1MTYzMSwtMTY5MjA4NTUzM119
