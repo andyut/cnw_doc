@@ -20,7 +20,7 @@ Semua komponen diatas bermuara di 2 table utama SAP, yaitu OINM ( Inventory Audi
 
 ```mermaid
 graph TD
-
+A[OPDN] -->[createdby,transtype] B[OINM]
 ```
 
 ## Laporan Pembelian 
@@ -33,6 +33,6 @@ Dapat Dicek dari 3 bagian modul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTk0MDc4OCwtMTA4NTE1MTYzMSwtMT
-Y5MjA4NTUzM119
+eyJoaXN0b3J5IjpbMTU1MDYyMDUzMiwtNDA1OTQwNzg4LC0xMD
+g1MTUxNjMxLC0xNjkyMDg1NTMzXX0=
 -->
