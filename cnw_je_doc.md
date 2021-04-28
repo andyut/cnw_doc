@@ -125,9 +125,9 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 **Other Partner** : Partner diluar SAP business One Partner.  
 **Tunai/Cheque No** : Kolum untuk memasukan Nomor Cheque .  
-**Remark 1** : Kolum untuk memasukan Nomor Cheque .  
-**Remark 2** : Kolum untuk memasukan Nomor Cheque .  
-**Remark 3** : Kolum untuk memasukan Nomor Cheque .  
+**Remark 1** : Kolom keterangan ==(Wajib Diisi)==.  
+**Remark 2** : Kolom keterangan tambahan (baris 2).  
+**Remark 3** : Kolom keterangan tambahan (baris 3) .  
 **Remark 4** : Kolom keterangan Dalam bentuk HTML .  
 
 
@@ -141,10 +141,10 @@ Catatan : Untuk COA Tipe **Control Account** ,  Check List ini harus posisi **Ye
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTA2ODI1MSwtMTU0OTM5MTIyMSwtMT
-c4MzM4NjI3NSwtMjA0ODIzMzE0MSwtMTQ4Mjg1MDAwOCwtNjg4
-MjUxMjEyLC04OTU2NDcyNzIsMTEwMDgzODc2NiwtMTE2MDA3MT
-Q1OSwxODU4MDQzMTgsMzAzMTgzMTEsLTQxMjIyMTY2MSwxMDc3
-MTgwNDIwLC0xNzAzOTk1ODk3LC0xOTU1MDk0ODgyLDQzMDY4OT
-AxMSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbOTY1NjA0Nzk3LC0xNTQ5MzkxMjIxLC0xNz
+gzMzg2Mjc1LC0yMDQ4MjMzMTQxLC0xNDgyODUwMDA4LC02ODgy
+NTEyMTIsLTg5NTY0NzI3MiwxMTAwODM4NzY2LC0xMTYwMDcxND
+U5LDE4NTgwNDMxOCwzMDMxODMxMSwtNDEyMjIxNjYxLDEwNzcx
+ODA0MjAsLTE3MDM5OTU4OTcsLTE5NTUwOTQ4ODIsNDMwNjg5MD
+ExLC0yMDg4NzQ2NjEyXX0=
 -->
