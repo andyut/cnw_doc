@@ -9,7 +9,7 @@ https://aws.amazon.com/ses/?did=ft_card&trk=ft_card
 
 https://aws.amazon.com/chime/?did=ft_card&trk=ft_card&chime-blog-posts.sort-by=item.additionalFields.createdDate&chime-blog-posts.sort-order=desc
 
-
+https://aws.amazon.com/sap/solutions/business-one/ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzE5MTQwMl19
+eyJoaXN0b3J5IjpbLTczMjE3NjgyNiwxMjUzMTkxNDAyXX0=
 -->
