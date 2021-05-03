@@ -34,7 +34,10 @@ Install Linux Management & Support Tools
 $ sudo apt-get install htop mc lynx
 $ sudo apt-get install openssh-server 
 ```
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI4MDU2NjgsMTM2ODY3MDA0OSwtMT
-A5NzI5MTc2NV19
+eyJoaXN0b3J5IjpbLTExNTkxMjM0NiwxMzY4NjcwMDQ5LC0xMD
+k3MjkxNzY1XX0=
 -->
