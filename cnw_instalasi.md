@@ -24,11 +24,12 @@ boot dari cd
 
 Install PostgreSQL
 ```bash
-sudo apt-get install postgresql-12
+$ sudo apt-get install postgresql-12
 ```
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTI2MDI3MiwxMzY4NjcwMDQ5LC0xMD
-k3MjkxNzY1XX0=
+eyJoaXN0b3J5IjpbLTE0NDU3NTgzMTAsMTM2ODY3MDA0OSwtMT
+A5NzI5MTc2NV19
 -->
