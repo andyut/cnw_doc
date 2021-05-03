@@ -17,7 +17,9 @@
 
 ## Installasi
 
+```bash
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTg0MTA3LC0xMDk3MjkxNzY1XX0=
+eyJoaXN0b3J5IjpbMTM2ODY3MDA0OSwtMTA5NzI5MTc2NV19
 -->
