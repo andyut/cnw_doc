@@ -30,6 +30,9 @@ A --> A2(Cash Flow)
 
 B(Inventory Audit) --> B1(Saldo Akhir Persediaan)
 B --> B2(Realisasi Import / Kartu Stock)
+B --> B3(Kartu Stock)
+B --> B4(Stock Aging)
+
 
 C(Sales Analysis) --> C1(Laporan DO Harian ==Full Report==)
 C --> C2(Penjualan Delivery)
@@ -108,6 +111,7 @@ E --> E5(Lap Harian)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzgzMTY2MiwxNTE2MzU2MTI2LDE0Mz
-UwNDAzMTYsMjAwNDUzMjUwNywtMTc4MDQ4NTIzXX0=
+eyJoaXN0b3J5IjpbLTY2MDE5MjY3NiwxNTI3ODMxNjYyLDE1MT
+YzNTYxMjYsMTQzNTA0MDMxNiwyMDA0NTMyNTA3LC0xNzgwNDg1
+MjNdfQ==
 -->
