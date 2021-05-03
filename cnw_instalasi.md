@@ -17,10 +17,18 @@
 
 ## Installasi
 
+Install Ubuntu LTS (19.04, 20.04 , 21.04)
 ```bash
-##
+boot dari cd
 ```
+
+Install PostgreSQL
+```bash
+sudo apt-get install postgresql-12
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDg4NTUwNSwxMzY4NjcwMDQ5LC0xMD
+eyJoaXN0b3J5IjpbMjA4OTI2MDI3MiwxMzY4NjcwMDQ5LC0xMD
 k3MjkxNzY1XX0=
 -->
