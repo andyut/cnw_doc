@@ -15,7 +15,9 @@
 
 # Install Linux OS
 
+## Installasi
 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTcyOTE3NjVdfQ==
+eyJoaXN0b3J5IjpbMTg4NTg0MTA3LC0xMDk3MjkxNzY1XX0=
 -->
