@@ -28,8 +28,13 @@ $ sudo apt-get install postgresql-12
 ```
 
 
+Install Linux Management & Support Tools
 
+```bash
+$ sudo apt-get install htop mc lynx
+$ sudo apt-get install openssh-server 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU3NTgzMTAsMTM2ODY3MDA0OSwtMT
+eyJoaXN0b3J5IjpbLTE5NjI4MDU2NjgsMTM2ODY3MDA0OSwtMT
 A5NzI5MTc2NV19
 -->
