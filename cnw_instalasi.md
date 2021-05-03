@@ -6,7 +6,11 @@
 
 
 ---   
+# Tahapan
 
+1. Instal Linux OS ( Debian Family / Ubuntu)
+2. Install PostgreSQL ( Ver 10 keatas )
+3. Install O
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTA3NDE5MV19
+eyJoaXN0b3J5IjpbNDEwMzE0Nzc5XX0=
 -->
