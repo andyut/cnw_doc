@@ -4,13 +4,15 @@
 ### Masuk dalam stock SAP
 ```mermaid
 graph TD
-A[BELI PLASTIK] --> B(PO / AP INVOICE)
-B --> C(STOCK CARD)
+A[ PLASTIK IN] --> B(PO / AP INVOICE)
+B --> C[[STOCK CARD]]
 
-C --> D(PLASTIK OUT) 
+D(PLASTIK OUT) --> E(GOOD ISSUE)
+E -->C
+
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNjM0ODM4LC0xNzA1NjgwNDk0LC03Mz
+eyJoaXN0b3J5IjpbNjE5MzMzNzQzLC0xNzA1NjgwNDk0LC03Mz
 IxNzY4MjYsMTI1MzE5MTQwMl19
 -->
