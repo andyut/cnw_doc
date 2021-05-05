@@ -4,8 +4,9 @@
 ### Masuk dalam stock SAP
 ```mermaid
 graph TD
+A[BELI PLASTIK] --> B(p
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDc0MTIyMCwtMTcwNTY4MDQ5NCwtNz
-MyMTc2ODI2LDEyNTMxOTE0MDJdfQ==
+eyJoaXN0b3J5IjpbLTEwOTYxMzY2NTksLTE3MDU2ODA0OTQsLT
+czMjE3NjgyNiwxMjUzMTkxNDAyXX0=
 -->
