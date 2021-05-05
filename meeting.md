@@ -1,19 +1,11 @@
-# Amazon Simple Email Service
-https://aws.amazon.com/ses/?did=ft_card&trk=ft_card
+# Pembelian Plastik
 
-# Amazon Simple Notification Service
-
-https://aws.amazon.com/ses/?did=ft_card&trk=ft_card
-
-# Amazon Chime
-
-https://aws.amazon.com/chime/?did=ft_card&trk=ft_card&chime-blog-posts.sort-by=item.additionalFields.createdDate&chime-blog-posts.sort-order=desc
-
-# SAP Business One
-https://aws.amazon.com/sap/solutions/business-one/ 
-
-
+## Skema 1
+### Masuk dalam stock SAP
+```mermaid
+graph TD
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU2ODA0OTQsLTczMjE3NjgyNiwxMj
-UzMTkxNDAyXX0=
+eyJoaXN0b3J5IjpbLTc3MDc0MTIyMCwtMTcwNTY4MDQ5NCwtNz
+MyMTc2ODI2LDEyNTMxOTE0MDJdfQ==
 -->
