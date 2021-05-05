@@ -12,7 +12,21 @@ E -->C
 
 
 ```
+
+
+## Skema 2
+###  Biaya di SAP, stock card diluar SAP
+```mermaid
+graph TD
+A[ PLASTIK IN] --> B(CNW EXPENSE)
+B --> C[[SAP JURNAL ENTRY]]
+
+D(PLASTIK OUT) --> E(GOOD ISSUE)
+E -->C
+
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MzMzNzQzLC0xNzA1NjgwNDk0LC03Mz
-IxNzY4MjYsMTI1MzE5MTQwMl19
+eyJoaXN0b3J5IjpbLTE3MTYyNjMxMDcsLTE3MDU2ODA0OTQsLT
+czMjE3NjgyNiwxMjUzMTkxNDAyXX0=
 -->
