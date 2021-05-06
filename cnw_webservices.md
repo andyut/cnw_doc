@@ -17,7 +17,12 @@
 * SellItem
 * InvntItem
 * SalUnitMsr
+* InvntryUom
+* U_Group
+* U_SpeGroup
+* U_SubGroup 
+* 
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODM0NDUzNF19
+eyJoaXN0b3J5IjpbMTAzNDExNDAyOF19
 -->
