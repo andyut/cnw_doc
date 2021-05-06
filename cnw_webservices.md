@@ -36,6 +36,8 @@
 
 ***JSON Param Out:***
 * **[Itemcode]**
+* WebUserId 
+
 ---
 
 
@@ -74,6 +76,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDM4MDY5MywzMzg5OTgwLDE0MDg5MD
-gyNzYsLTE5NjA0NjIzMDRdfQ==
+eyJoaXN0b3J5IjpbLTE0NTUyOTg2MTMsMzM4OTk4MCwxNDA4OT
+A4Mjc2LC0xOTYwNDYyMzA0XX0=
 -->
