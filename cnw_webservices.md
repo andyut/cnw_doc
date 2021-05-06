@@ -29,7 +29,10 @@
 * U_HS_Code
 * U_Cutting
 * U_Qty_Min
+* U_IGU_ByPassLoxk
+* U_ByPass Until
+*  			
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA0NjIzMDRdfQ==
+eyJoaXN0b3J5IjpbMTQwODkwODI3NiwtMTk2MDQ2MjMwNF19
 -->
