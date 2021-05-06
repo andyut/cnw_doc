@@ -8,7 +8,7 @@
 **Field**
 * ItemCode 
 * ItemName
-* GroupCode
+* ItmsGrpCod
 * FrgnName 
 * VatGourpSa
 * VatGroupPu
@@ -32,8 +32,10 @@
 * U_Qty_Min
 * U_IGU_ByPassLoxk
 * U_ByPass Until
-* 
+* U_Minimum_Price
+* U_Non_Halal
+* U_Make_To_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MjE0NzU4LDE0MDg5MDgyNzYsLTE5Nj
-A0NjIzMDRdfQ==
+eyJoaXN0b3J5IjpbLTgxMzg3MDE2NSwxNDA4OTA4Mjc2LC0xOT
+YwNDYyMzA0XX0=
 -->
