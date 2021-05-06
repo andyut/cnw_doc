@@ -4,9 +4,7 @@
 ## Master Item
 
 ### Create 
-JSON Param :
-**Field**
-* ItemCode 
+***JSON Param In:***
 * ItemName
 * ItmsGrpCod
 * FrgnName 
@@ -35,6 +33,10 @@ JSON Param :
 * U_Minimum_Price
 * U_Non_Halal
 * U_Make_To_Order
+
+***JSON Param Out:***
+* **[Itemcode]**
+---
 
 
 ###  Update
@@ -72,6 +74,6 @@ JSON Param :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4OTk4MCwxNDA4OTA4Mjc2LC0xOTYwND
-YyMzA0XX0=
+eyJoaXN0b3J5IjpbLTQyNDM4MDY5MywzMzg5OTgwLDE0MDg5MD
+gyNzYsLTE5NjA0NjIzMDRdfQ==
 -->
