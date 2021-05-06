@@ -75,7 +75,13 @@
 * U_Make_To_Order
 
 
+###  Delete
+
+**Field**
+*  **[ItemCode]**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUyOTg2MTMsMzM4OTk4MCwxNDA4OT
+eyJoaXN0b3J5IjpbLTE2NjY4ODE5MTUsMzM4OTk4MCwxNDA4OT
 A4Mjc2LC0xOTYwNDYyMzA0XX0=
 -->
