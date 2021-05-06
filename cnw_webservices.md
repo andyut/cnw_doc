@@ -40,7 +40,7 @@ JSON Param :
 ###  Update
 
 **Field**
-* ItemCode 
+*  **[ItemCode]**
 * ItemName
 * ItmsGrpCod
 * FrgnName 
@@ -69,7 +69,9 @@ JSON Param :
 * U_Minimum_Price
 * U_Non_Halal
 * U_Make_To_Order
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODQ0MTM3NCwxNDA4OTA4Mjc2LC0xOT
-YwNDYyMzA0XX0=
+eyJoaXN0b3J5IjpbMzM4OTk4MCwxNDA4OTA4Mjc2LC0xOTYwND
+YyMzA0XX0=
 -->
