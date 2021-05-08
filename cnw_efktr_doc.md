@@ -6,9 +6,10 @@
     Input E-Nofa, Generate Faktur pajak , dkemudian upload ke DJP
     
 
-## Generate Faktur Pajak
+# Menu
+
 
 ## Export to DJP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjU1NTQzMF19
+eyJoaXN0b3J5IjpbLTg2MTkyMDk4NSwxMjUyNTU1NDMwXX0=
 -->
