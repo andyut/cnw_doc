@@ -19,8 +19,12 @@ B --- E[GENERATE FAKTUR PAJAK]
 
 ```
 
-## Export to DJP
+## Menu E-Nofa
+
+Input Nomor E-Nofa dari DJP, untuk penomoran Faktur pajak
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU2OTg3NiwtODYxOTIwOTg1LDEyNT
-I1NTU0MzBdfQ==
+eyJoaXN0b3J5IjpbLTE0NjI0NTkyNTUsLTg2MTkyMDk4NSwxMj
+UyNTU1NDMwXX0=
 -->
