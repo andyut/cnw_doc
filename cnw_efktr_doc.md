@@ -8,14 +8,19 @@
 
 # Menu
 ```mermaid
-graph TD
+graph LR
 A[CNW E-FKTR] --- B[FAKTUR PAJAK]
 A --- C[EXPORT FAKTUR PAJAK]
+
+B --- D[E-NOFA]
+B --- E[GENERATE FAKTUR PAJAK]
+ 
+
 
 ```
 
 ## Export to DJP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTAxODg5MCwtODYxOTIwOTg1LDEyNT
+eyJoaXN0b3J5IjpbLTIxMzU2OTg3NiwtODYxOTIwOTg1LDEyNT
 I1NTU0MzBdfQ==
 -->
