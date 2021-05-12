@@ -3,7 +3,7 @@
 
 
 
-    Input E-Nofa, Generate Faktur pajak , dkemudian upload ke DJP
+    Input E-Nofa, Generate Faktur pajak , kemudian upload ke DJP
     
 
 # Menu
@@ -25,6 +25,6 @@ Input Nomor E-Nofa dari DJP, untuk penomoran Faktur pajak
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI0NTkyNTUsLTg2MTkyMDk4NSwxMj
-UyNTU1NDMwXX0=
+eyJoaXN0b3J5IjpbLTU1NzI5Mzc4NSwtMTQ2MjQ1OTI1NSwtOD
+YxOTIwOTg1LDEyNTI1NTU0MzBdfQ==
 -->
