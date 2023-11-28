@@ -8,9 +8,12 @@ License per sekali beli
 Accurate Desktop license sekali beli 
 
  
-| Keter |  |
-|--|--|
-|  |  |
+| Keterangan | Harga | Tipe | 
+|--|--| -- |
+| Raptor  | 30-40 juta | Capex
+| Accurate Desktop  | 6.5 Juta | Capex
+
+
 
 
 
@@ -19,5 +22,5 @@ Accurate Desktop license sekali beli
 Semua penjualan resto dan meatshop dilakukan oleh raptor
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTI1ODYwN119
+eyJoaXN0b3J5IjpbMTQwMTI2MjYxMl19
 -->
